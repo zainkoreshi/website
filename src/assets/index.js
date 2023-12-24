@@ -28,7 +28,6 @@ import nitk from "./nitk.png";
 import cluboard from "./cluboard.png";
 import cash_flow from "./cash_flow.jpg";
 import freadom from "./freadom.jpg";
-import ecell from "./ecell.png";
 import bank from "./bank.jpg";
 import hkbuia from "./hkbuia.png";
 import iris from "./iris.png";
@@ -79,7 +78,6 @@ export {
   bank,
   hkbuia,
   iris,
-  ecell,
   hkbucs,
   todo,
   graphql,

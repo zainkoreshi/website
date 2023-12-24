@@ -991,6 +991,18 @@ export const stats = [
 
 export const extraCurricular = [
   {
+    organisation: "Department of Computer Science, HKBU",
+    title: "Peer Tutor",
+    duration: "September 2023 - Present",
+    content: [
+      {
+        text: "Helped six juniors with Python, Java, C and SQL on courses such as Object Oriented Programming, Data Structures and Algorithms, and Database Management",
+        link: "https://www.comp.hkbu.edu.hk/v1/?page=news&id=453",
+      },
+    ],
+    logo: hkbucs,
+  },
+  {
     organisation: "International Association, HKBU",
     title: "President",
     duration: "October 2022 - October 2023",
@@ -1001,18 +1013,6 @@ export const extraCurricular = [
       },
     ],
     logo: hkbuia,
-  },
-  {
-    organisation: "Department of Computer Science, HKBU",
-    title: "Peer Tutor",
-    duration: "Sep 2021 - Present",
-    content: [
-      {
-        text: "Helped six juniors with Python, Java, C and SQL on courses such as Object Oriented Programming, Data Structures and Algorithms, and Database Management",
-        link: "https://www.comp.hkbu.edu.hk/v1/?page=news&id=453",
-      },
-    ],
-    logo: hkbucs,
   },
   {
     organisation: "IRIS, NITK",
