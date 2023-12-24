@@ -8,7 +8,7 @@ import {
   cash_flow,
   freadom,
   bank,
-  gdsc,
+  hkbuia,
   iris,
   ecell,
   genesis,
@@ -996,24 +996,20 @@ export const extraCurricular = [
     duration: "October 2022 - October 2023",
     content: [
       {
-        text: "",
+        text: "Ran the student union responsible for all International and Ethnic Minority Students enrolled at Hong Kong Baptist University",
         link: "https://www.instagram.com/hkbuia/",
       },
     ],
-    logo: gdsc,
+    logo: hkbuia,
   },
   {
-    organisation: "Genesis, NITK",
-    title: "Competitions Head",
+    organisation: "Department of Computer Science, HKBU",
+    title: "Peer Tutor",
     duration: "Sep 2021 - Present",
     content: [
       {
-        text: "Qualified for the nationals of Indian Hip Hop Dance Championship",
-        link: "",
-      },
-      {
-        text: "Won 7 inter-college solo dance competitions",
-        link: "",
+        text: "Helped six juniors with Python, Java, C and SQL on courses such as Object Oriented Programming, Data Structures and Algorithms, and Database Management",
+        link: "https://www.comp.hkbu.edu.hk/v1/?page=news&id=453",
       },
     ],
     logo: genesis,
