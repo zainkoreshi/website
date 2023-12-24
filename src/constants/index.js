@@ -10,7 +10,6 @@ import {
   bank,
   hkbuia,
   iris,
-  ecell,
   hkbucs,
   graphql,
   portfolio,
@@ -1025,22 +1024,6 @@ export const extraCurricular = [
       },
     ],
     logo: iris,
-  },
-  {
-    organisation: "E-Cell, NITK",
-    title: "Executive Member",
-    duration: "Sep 2021 - Apr 2022",
-    content: [
-      {
-        text: "Organised the season 3 of the E-Cell NITK Podcast",
-        link: "https://www.youtube.com/watch?v=uA-Yrk6bVDc",
-      },
-      {
-        text: "Member of the Sponsorship and E-Talks team for E-Summit'22",
-        link: "",
-      },
-    ],
-    logo: ecell,
   },
 ];
 
