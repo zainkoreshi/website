@@ -85,7 +85,7 @@ import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 export const resumeLink = "https://drive.google.com/file/d/1jRurDlAlY_mZJegMatpM2JeaLkhLooR_/view?usp=sharing";
 export const repoLink = "https://github.com/zainkoreshi";
 
-export const callToAction = "https://www.linkedin.com/in/mittal-parth";
+export const callToAction = "https://www.linkedin.com/in/zainkoreshi/";
 
 export const navLinks = [
   {
@@ -270,23 +270,23 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    organisation: "Oracle, India",
-    logo: oracle,
-    link: "https://www.oracle.com/in/",
-    positions: [
-      {
-        title: "Member of Technical Staff Intern",
-        duration: "May 2023 - Jul 2023",
-        content: [
-          {
-            text: "Working as part of the Exa-CC team building Oracle Database as a service.",
-            link: "",
-          },
-        ],
-      },
-    ],
-  },
+  // {
+  //   organisation: "Oracle, India",
+  //   logo: oracle,
+  //   link: "https://www.oracle.com/in/",
+  //   positions: [
+  //     {
+  //       title: "Member of Technical Staff Intern",
+  //       duration: "May 2023 - Jul 2023",
+  //       content: [
+  //         {
+  //           text: "Working as part of the Exa-CC team building Oracle Database as a service.",
+  //           link: "",
+  //         },
+  //       ],
+  //     },
+  //   ],
+  // },
   {
     organisation: "IRIS, NITK",
     logo: headstart,
