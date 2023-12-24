@@ -1019,7 +1019,7 @@ export const extraCurricular = [
     duration: "September 2017 - August 2021",
     content: [
       {
-        text: "Re-elected to Student Council 4 years consecutively. Formulated School policy, organised events and represented the student body.",
+        text: "Re-elected to Student Council 4 years consecutively. Formulated School policy, organised events and represented the student body",
       },
     ],
     logo: headstart,
