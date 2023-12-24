@@ -9,7 +9,7 @@ import {
   freadom,
   bank,
   hkbuia,
-  iris,
+  headstart,
   hkbucs,
   graphql,
   portfolio,
@@ -289,7 +289,7 @@ export const experiences = [
   },
   {
     organisation: "IRIS, NITK",
-    logo: iris,
+    logo: headstart,
     link: "https://iris.nitk.ac.in/about_us",
     positions: [
       {
@@ -1014,16 +1014,15 @@ export const extraCurricular = [
     logo: hkbuia,
   },
   {
-    organisation: "IRIS, NITK",
-    title: "Tutor",
-    duration: "Jan 2022 - Jan 2022",
+    organisation: "Student Council, Headstart School",
+    title: "President, Vice President and Class Leader",
+    duration: "September 2017 - August 2021",
     content: [
       {
-        text: "Mentored 150+ students in a month-long Web Development and Ruby on Rails Bootcamp",
-        link: "https://github.com/IRIS-NITK/IRIS-RoR-Bootcamp-2021",
+        text: "Re-elected to Student Council 4 years consecutively. Formulated School policy, organised events and represented the student body.",
       },
     ],
-    logo: iris,
+    logo: headstart,
   },
 ];
 

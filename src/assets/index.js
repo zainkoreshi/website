@@ -30,7 +30,7 @@ import cash_flow from "./cash_flow.jpg";
 import freadom from "./freadom.jpg";
 import bank from "./bank.jpg";
 import hkbuia from "./hkbuia.png";
-import iris from "./iris.png";
+import headstart from "./headstart.jpg";
 import hkbucs from "./hkbucs.jpg";
 import todo from "./todo.jpg";
 import graphql from "./graphql.png";
@@ -77,7 +77,7 @@ export {
   freadom,
   bank,
   hkbuia,
-  iris,
+  headstart,
   hkbucs,
   todo,
   graphql,
