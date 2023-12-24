@@ -30,9 +30,9 @@ import cash_flow from "./cash_flow.jpg";
 import freadom from "./freadom.jpg";
 import ecell from "./ecell.png";
 import bank from "./bank.jpg";
-import gdsc from "./gdsc.png";
+import hkbuia from "./hkbuia.png";
 import iris from "./iris.png";
-import genesis from "./genesis.jpg";
+import hkbucs from "./hkbucs.jpg";
 import todo from "./todo.jpg";
 import graphql from "./graphql.png";
 import portfolio from "./portfolio.jpg";
@@ -77,10 +77,10 @@ export {
   cash_flow,
   freadom,
   bank,
-  gdsc,
+  hkbuia,
   iris,
   ecell,
-  genesis,
+  hkbucs,
   todo,
   graphql,
   portfolio,

@@ -11,7 +11,7 @@ import {
   hkbuia,
   iris,
   ecell,
-  genesis,
+  hkbucs,
   graphql,
   portfolio,
   publiclab,
@@ -1012,7 +1012,7 @@ export const extraCurricular = [
         link: "https://www.comp.hkbu.edu.hk/v1/?page=news&id=453",
       },
     ],
-    logo: genesis,
+    logo: hkbucs,
   },
   {
     organisation: "IRIS, NITK",
