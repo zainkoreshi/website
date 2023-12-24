@@ -991,13 +991,13 @@ export const stats = [
 
 export const extraCurricular = [
   {
-    organisation: "Google Developer Student Club, NITK",
-    title: "Co-Chair",
-    duration: "December 2021 - Present",
+    organisation: "International Association, HKBU",
+    title: "President",
+    duration: "October 2022 - October 2023",
     content: [
       {
-        text: "Co-designed and developed the official website of Incident, NITK with 15K+ visitors",
-        link: "https://incident.nitk.ac.in/",
+        text: "",
+        link: "https://www.instagram.com/hkbuia/",
       },
     ],
     logo: gdsc,
@@ -1052,32 +1052,32 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/mittal-parth",
+    link: "https://www.linkedin.com/in/zainkoreshi/",
   },
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/mittal-parth",
+    link: "https://github.com/zainkoreshi",
   },
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:mittalparth22@gmail.com",
+    link: "mailto:zainkoreshi769@gmail.com",
   },
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/mittalparth_",
+    link: "https://twitter.com/ZainKoreshi",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/mittalparth_",
+    link: "https://www.instagram.com/zainkoreshi/",
   },
 ];
 
 export const aboutMe = {
-    name: "Parth Mittal",
-    tagLine: "MTS Intern @Oracle | ETHIndia'22 Winner | 8x Hackathon Winner | Tech Lead @IRIS, NITK | Co-Chair @GDSC, NITK",
-    intro: "Student web-developer from India who is either busy improving his craft or pondering over the next big idea."
+    name: "Zain Koreshi",
+    tagLine: "BSc (Hons.) in Computer Science • 2024 Intern @ HSBC • President of HKBU’s International Association",
+    intro: "A penultimate student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in back-end and front-end development."
 }
