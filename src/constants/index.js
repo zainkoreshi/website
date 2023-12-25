@@ -117,7 +117,7 @@ export const navLinks = [
 export const educationList = [
   {
     id: "education-1",
-    icon: hkbuia,
+    icon: hkbu,
     title: "Hong Kong Baptist University, Hong Kong",
     degree: "Bachelor of Science (Honours) in Computer Science",
     duration: "September 2021 - May 2025",
@@ -1028,10 +1028,7 @@ export const extraCurricular = [
     duration: "September 2017 - August 2021",
     content: [
       {
-        text: "Re-elected to Student Council 4 years consecutively.",
-      },
-      {
-        text: "Formulated School policy, organised events and represented the student body",
+        text: "Re-elected to Student Council 4 years consecutively. Formulated School policy, organised events and represented the student body",
       },
     ],
     logo: headstart,
