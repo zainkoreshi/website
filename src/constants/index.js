@@ -125,7 +125,7 @@ export const educationList = [
     content2: "Academic Honours: President’s Honour Roll (2021-22) & Dean’s List (2021-22 & 2022-23)",
   },  
   {
-    id: "education-2",
+    id: "education-1",
     icon: headstart,
     title: "Headstart School, Islamabad",
     degree: "High School Diploma",
