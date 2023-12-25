@@ -124,15 +124,15 @@ export const educationList = [
     content1: "Recipient of a renewable 130% Merit Scholarship",
     content2: "Academic Honours: President’s Honour Roll (2021-22) & Dean’s List (2021-22 & 2022-23)",
   },  
-  {
-    id: "education-1",
-    icon: headstart,
-    title: "Headstart School, Islamabad",
-    degree: "High School Diploma",
-    duration: "August 2017 - August 2021",
-    content1: "Recipient of a renewable 75% Merit Scholarship",
-    content2: "Academic Honours: Valedictorian of Class of 2025, Summa cum Laude and multiple honours",
-  },
+  // {
+  //   id: "education-1",
+  //   icon: headstart,
+  //   title: "Headstart School, Islamabad",
+  //   degree: "High School Diploma",
+  //   duration: "August 2017 - August 2021",
+  //   content1: "Recipient of a renewable 75% Merit Scholarship",
+  //   content2: "Academic Honours: Valedictorian of Class of 2025, Summa cum Laude and multiple honours",
+  // },
 ];
 
 export const skills = [
