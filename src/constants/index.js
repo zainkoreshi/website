@@ -3,7 +3,7 @@ import {
   binance,
   coinbase,
   dropbox,
-  nitk,
+  hkbu,
   cluboard,
   cash_flow,
   freadom,
@@ -106,7 +106,7 @@ export const navLinks = [
   },
   {
     id: "extraCurricular",
-    title: "Extra Curricular",
+    title: "Extra Curriculars",
   },
   {
     id: "contactMe",
@@ -117,12 +117,21 @@ export const navLinks = [
 export const educationList = [
   {
     id: "education-1",
-    icon: nitk,
-    title: "National Institute of Technology Karnataka, Surathkal",
-    degree: "Bachelor of Technology",
-    duration: "December 2020 - May 2024",
-    content1: "Major: Electronics and Communication Engineering",
-    content2: "Minor: Information Technology",
+    icon: hkbuia,
+    title: "Hong Kong Baptist University, Hong Kong",
+    degree: "Bachelor of Science (Honours) in Computer Science",
+    duration: "September 2021 - May 2025",
+    content1: "Recipient of a renewable 130% Merit Scholarship",
+    content2: "Academic Honours: President’s Honour Roll (2021-22) & Dean’s List (2021-22 & 2022-23)",
+  },  
+  {
+    id: "education-2",
+    icon: headstart,
+    title: "Headstart School, Islamabad",
+    degree: "High School Diploma",
+    duration: "August 2017 - August 2021",
+    content1: "Recipient of a renewable 75% Merit Scholarship",
+    content2: "Academic Honours: Valedictorian of Class of 2025, Summa cum Laude and multiple honours",
   },
 ];
 
@@ -1019,7 +1028,10 @@ export const extraCurricular = [
     duration: "September 2017 - August 2021",
     content: [
       {
-        text: "Re-elected to Student Council 4 years consecutively. Formulated School policy, organised events and represented the student body",
+        text: "Re-elected to Student Council 4 years consecutively.",
+      },
+      {
+        text: "Formulated School policy, organised events and represented the student body",
       },
     ],
     logo: headstart,
