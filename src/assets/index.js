@@ -45,6 +45,10 @@ import huntly from "./huntly.png";
 import oracle from "./oracle.jpg";
 import comicify_ai from "./comicify-ai.png";
 import greentrust from "./green_trust.png";
+import xymbia from "./xymbia.jpg";
+import avrio from "./avrio.jpg";
+import dhealth from "./dhealth.jpg";
+import kcm from "./kcm.png";
 
 export {
   airbnb,
@@ -93,5 +97,9 @@ export {
   huntly,
   oracle,
   comicify_ai,
-  greentrust
+  greentrust,
+  kcm,
+  avrio,
+  xymbia,
+  dhealth,
 };

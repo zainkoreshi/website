@@ -22,7 +22,11 @@ import {
   huntly,
   oracle,
   comicify_ai,
-  greentrust
+  greentrust,
+  kcm,
+  avrio,
+  xymbia,
+  dhealth,
 } from "../assets";
 
 import {
@@ -280,7 +284,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Hongkong and Shanghai Banking Corporation (HSBC), Hong Kong",
+    organisation: "Hongkong and Shanghai Banking Corporation, Hong Kong",
     logo: hsbc,
     link: "https://www.hsbc.com",
     positions: [
@@ -302,7 +306,7 @@ export const experiences = [
   },
   {
     organisation: "Xymbia Inc, Pakistan",
-    logo: hsbc,
+    logo: xymbia,
     link: "https://www.xymbia.io",
     positions: [
       {
@@ -327,7 +331,7 @@ export const experiences = [
   },  
   {
     organisation: "dHealth - Blockchain for Healthcare, Hong Kong",
-    logo: hsbc,
+    logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
       {
@@ -352,7 +356,7 @@ export const experiences = [
   },
   {
     organisation: "Avrio Accounting Solutions Inc, Canada",
-    logo: hsbc,
+    logo: avrio,
     link: "https://avrioas.ca",
     positions: [
       {
@@ -389,27 +393,27 @@ export const experiences = [
       },
     ],
   },
-  // {
-  //   organisation: "KCM Accounting Limited, Canada",
-  //   logo: hsbc,
-  //   link: "https://marketplacebc.ca/marketplace/kcm-accounting-ltd/",
-  //   positions: [
-  //     {
-  //       title: "Project Manager",
-  //       duration: "May 2021 - July 2021",
-  //       content: [
-  //         {
-  //           text: "Secured funding for more than 40 businesses (over $1,000,000 CAD in total), through the Government of B.C. Small and Medium Sized Business Recovery Grant, to help them recover from the COVID-19 Pandemic.",
-  //           link: "",
-  //         },
-  //         {
-  //           text: "Helped businesses apply for both steps of the application process, which included preparing and reviewing documentation, communicating with clients, colleagues and the Government of B.C., and preparing Recovery Plans.",
-  //           link: "",
-  //         },
-  //       ],
-  //     },
-  //   ],
-  // },
+  {
+    organisation: "KCM Accounting Limited, Canada",
+    logo: kcm,
+    link: "https://marketplacebc.ca/marketplace/kcm-accounting-ltd/",
+    positions: [
+      {
+        title: "Project Manager",
+        duration: "May 2021 - July 2021",
+        content: [
+          {
+            text: "Secured funding for more than 40 businesses (over $1,000,000 CAD in total), through the Government of B.C. Small and Medium Sized Business Recovery Grant, to help them recover from the COVID-19 Pandemic.",
+            link: "",
+          },
+          {
+            text: "Helped businesses apply for both steps of the application process, which included preparing and reviewing documentation, communicating with clients, colleagues and the Government of B.C., and preparing Recovery Plans.",
+            link: "",
+          },
+        ],
+      },
+    ],
+  },
 ];
 
 export const openSourceContributions = [
