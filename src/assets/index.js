@@ -42,7 +42,6 @@ import chargeswap from "./chargeswap.png";
 import placeicon from "./place-icon.svg";
 import recruitment from "./recruitment.png";
 import huntly from "./huntly.png";
-import oracle from "./oracle.jpg";
 import comicify_ai from "./comicify-ai.png";
 import greentrust from "./green_trust.png";
 import xymbia from "./xymbia.jpg";
@@ -95,7 +94,6 @@ export {
   placeicon,
   recruitment,
   huntly,
-  oracle,
   comicify_ai,
   greentrust,
   kcm,

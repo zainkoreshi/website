@@ -20,7 +20,6 @@ import {
   placeicon,
   recruitment,
   huntly,
-  oracle,
   comicify_ai,
   greentrust,
   kcm,
@@ -284,7 +283,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Hongkong and Shanghai Banking Corporation (HSBC), Hong Kong",
+    organisation: "Hongkong and Shanghai Banking Corporation (HSBC), Hong Kong SAR",
     logo: hsbc,
     link: "https://www.hsbc.com",
     positions: [
@@ -330,7 +329,7 @@ export const experiences = [
     ],
   },  
   {
-    organisation: "dHealth - Blockchain for Healthcare, Kowloon",
+    organisation: "dHealth - Blockchain for Healthcare, Hong Kong SAR",
     logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
