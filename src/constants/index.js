@@ -330,7 +330,7 @@ export const experiences = [
     ],
   },  
   {
-    organisation: "dHealth - Blockchain for Healthcare, Hong Kong",
+    organisation: "dHealth - Blockchain for Healthcare (HSBC), Hong Kong",
     logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
