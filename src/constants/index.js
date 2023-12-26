@@ -1,8 +1,4 @@
 import {
-  airbnb,
-  binance,
-  coinbase,
-  dropbox,
   hkbu,
   cluboard,
   cash_flow,
@@ -283,7 +279,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Hongkong and Shanghai Banking Corporation (HSBC), Hong Kong SAR",
+    organisation: "Hongkong and Shanghai Banking Corporation, HSBC (Central, Hong Kong SAR)",
     logo: hsbc,
     link: "https://www.hsbc.com",
     positions: [
@@ -304,7 +300,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Xymbia Inc, Pakistan",
+    organisation: "Xymbia Inc. (Islamabad, Pakistan)",
     logo: xymbia,
     link: "https://www.xymbia.io",
     positions: [
@@ -329,7 +325,7 @@ export const experiences = [
     ],
   },  
   {
-    organisation: "dHealth - Blockchain for Healthcare, Hong Kong SAR",
+    organisation: "dHealth - Blockchain for Healthcare (Kowloon, Hong Kong SAR)",
     logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
@@ -354,7 +350,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Avrio Accounting Solutions Inc, Canada",
+    organisation: "Avrio Accounting Solutions Inc. (Islamabad, Pakistan)",
     logo: avrio,
     link: "https://avrioas.ca",
     positions: [
@@ -393,7 +389,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "KCM Accounting Limited, Canada",
+    organisation: "KCM Accounting Limited (Islamabad, Pakistan)",
     logo: kcm,
     link: "https://marketplacebc.ca/marketplace/kcm-accounting-ltd/",
     positions: [
@@ -806,47 +802,47 @@ export const projects = [
       },
     ],
   },
-  // {
-  //   id: "project-6",
-  //   title: "Huntly",
-  //   github: "",
-  //   link: "https://devfolio.co/projects/huntly-b5a9",
-  //   image: huntly,
-  //   content:
-  //     "A cross-platform mobile application that brings people closer to the physical environment and forms meaningful connections by organising real-world Treasure Hunts for free and winning rewards. The app uses machine learning to match users and form teams of like-minded people.",
-  //   stack: [
-  //     {
-  //       id: "icon-1",
-  //       icon: SiDjango,
-  //       name: "Django Rest Framework"
-  //     },
-  //     {
-  //       id: "icon-2",
-  //       icon: SiFlutter,
-  //       name: "Flutter"
-  //     },
-  //     {
-  //       id: "icon-3",
-  //       icon: SiReplit,
-  //       name: "Replit"
-  //     },
-  //     {
-  //       id: "icon-3",
-  //       icon: SiFlask,
-  //       name: "Flask"
-  //     },
-  //     {
-  //       id: "icon-4",
-  //       icon: SiFigma,
-  //       name: "Figma"
-  //     },
-  //     {
-  //       id: "icon-4",
-  //       icon: SiGooglemaps,
-  //       name: "Google Maps API"
-  //     },
-  //   ],
-  // },
+  {
+    id: "project-6",
+    title: "Huntly",
+    github: "",
+    link: "https://devfolio.co/projects/huntly-b5a9",
+    image: huntly,
+    content:
+      "A cross-platform mobile application that brings people closer to the physical environment and forms meaningful connections by organising real-world Treasure Hunts for free and winning rewards. The app uses machine learning to match users and form teams of like-minded people.",
+    stack: [
+      {
+        id: "icon-1",
+        icon: SiDjango,
+        name: "Django Rest Framework"
+      },
+      {
+        id: "icon-2",
+        icon: SiFlutter,
+        name: "Flutter"
+      },
+      {
+        id: "icon-3",
+        icon: SiReplit,
+        name: "Replit"
+      },
+      {
+        id: "icon-3",
+        icon: SiFlask,
+        name: "Flask"
+      },
+      {
+        id: "icon-4",
+        icon: SiFigma,
+        name: "Figma"
+      },
+      {
+        id: "icon-4",
+        icon: SiGooglemaps,
+        name: "Google Maps API"
+      },
+    ],
+  },
   // {
   //   id: "project-7",
   //   title: "Cluboard",
