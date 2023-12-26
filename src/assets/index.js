@@ -29,8 +29,6 @@ import hkbuia from "./hkbuia.png";
 import headstart from "./headstart.jpg";
 import hkbucs from "./hkbucs.jpg";
 import todo from "./todo.jpg";
-import graphql from "./graphql.png";
-import portfolio from "./portfolio.jpg";
 import zulip from "./zulip.jpg";
 import publiclab from "./publiclab.png";
 import hsbc from "./hsbc.png";
@@ -38,7 +36,6 @@ import towerdefence from "./towerdefense.png";
 import nimmt from "./6nimmt.jpg";
 import connect from "./connect.jpg";
 import batman from "./batman.jpg";
-import comicify_ai from "./comicify-ai.png";
 import managementwebsite from "./managementwebsite.jpg";
 import xymbia from "./xymbia.jpg";
 import avrio from "./avrio.jpg";
@@ -75,8 +72,6 @@ export {
   headstart,
   hkbucs,
   todo,
-  graphql,
-  portfolio,
   publiclab,
   zulip,
   hsbc,
@@ -86,7 +81,6 @@ export {
   nimmt,
   connect,
   batman,
-  comicify_ai,
   managementwebsite,
   kcm,
   avrio,

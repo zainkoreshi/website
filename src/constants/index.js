@@ -7,8 +7,6 @@ import {
   hkbuia,
   headstart,
   hkbucs,
-  graphql,
-  portfolio,
   publiclab,
   zulip,
   hsbc,
@@ -16,7 +14,6 @@ import {
   nimmt,
   connect,
   batman,
-  comicify_ai,
   managementwebsite,
   kcm,
   avrio,
@@ -57,14 +54,6 @@ import {
   SiVite,
   SiDotnet,
 } from "react-icons/si";
-
-import {
-  FaHardHat
-} from "react-icons/fa";
-
-import {
-  IoIosNotificationsOutline
-} from "react-icons/io";
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
