@@ -22,6 +22,7 @@ import {
   avrio,
   xymbia,
   dhealth,
+  zainlogo,
 } from "../assets";
 
 import {
@@ -614,17 +615,17 @@ export const openSourceContributions = [
 export const projects = [
   {
     id: "project-1",
-    title: "Comicify.ai",
-    github: "https://github.com/ayush4345/Comicify.ai",
-    link: "https://comicify-ai.vercel.app/",
-    image: comicify_ai,
+    title: "Personal Website",
+    github: "https://github.com/zainkoreshi/website",
+    link: "https://main--zainkoreshi.netlify.app/#home",
+    image: zainlogo,
     content:
-      "Convert any academic/news/boring text into cool comic strips using GPT-3.5 and Stable Diffusion!",
+      "Developed a personalized website aimed at presenting a comprehensive overview of my portfolio.",
     stack: [
       {
         id: "icon-1",
-        icon: SiReact,
-        name: "React"
+        icon: SiJavascript,
+        name: "JavaScript"
       },
       {
         id: "icon-2",
@@ -633,18 +634,18 @@ export const projects = [
       },
       {
         id: "icon-3",
-        icon: SiOpenai,
-        name: "OpenAI"
+        icon: DiCss3,
+        name: "CSS"
       },
       {
         id: "icon-4",
-        icon: SiGooglecloud,
-        name: "Google Cloud Platform"
+        icon: AiFillHtml5,
+        name: "HTML"
       },
       {
         id: "icon-5",
-        icon: SiFlask,
-        name: "Flask"
+        icon: SiReact,
+        name: "React"
       },
     ],
   },
@@ -710,8 +711,8 @@ export const projects = [
       },
       {
         id: "icon-3",
-        icon: SiWeb3Dotjs,
-        name: "Web3.js"
+        icon: AiFillHtml5,
+        name: "HTML"
       },
       {
         id: "icon-4",
