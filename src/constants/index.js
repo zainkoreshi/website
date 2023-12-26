@@ -38,7 +38,6 @@ import {
 
 import {
   SiDjango,
-  SiSqlite,
   SiJavascript,
   SiBootstrap,
   SiReact,
@@ -55,21 +54,8 @@ import {
   SiMysql,
   SiSolidity,
   SiNetlify,
-  SiChartdotjs,
   SiVite,
-  SiArduino,
-  SiWeb3Dotjs,
-  SiIpfs,
   SiDotnet,
-  SiTwilio,
-  SiFlutter,
-  SiReplit,
-  SiFlask,
-  SiFigma,
-  SiGooglemaps,
-  SiOpenai,
-  SiGooglecloud,
-  SiNextdotjs
 } from "react-icons/si";
 
 import {
@@ -701,8 +687,8 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiReact,
-        name: "React"
+        icon: DiJava,
+        name: "Java",
       },
     ],
   },
@@ -717,8 +703,8 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiDotnet,
-        name: "Dot Net Core MVC 6"
+        icon: DiJava,
+        name: "Java",
       },
     ],
   },
@@ -733,8 +719,8 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiRubyonrails,
-        name: "Ruby on Rails"
+        icon: DiJava,
+        name: "Java",
       },
     ],
   },
