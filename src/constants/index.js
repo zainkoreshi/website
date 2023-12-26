@@ -301,7 +301,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Xymbia Inc., Pakistan",
+    organisation: "Xymbia Inc, Pakistan",
     logo: cdc,
     link: "https://www.xymbia.io",
     positions: [
@@ -351,20 +351,10 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Avrio Accounting Solutions Inc., Canada",
+    organisation: "Avrio Accounting Solutions Inc, Canada",
     logo: cdc,
     link: "https://avrioas.ca",
     positions: [
-      {
-        title: "Business Developer Intern",
-        duration: "October 2021 - January 2022",
-        content: [
-          {
-            text: "Made Standard Operating Procedures (SOPs) and Systems for the Operation Department.",
-            link: "",
-          },
-        ],
-      },
       {
         title: "Project Manager",
         duration: "July 2021 - January 2022",
@@ -379,6 +369,10 @@ export const experiences = [
           },          
           {
             text: "Communicated with Clients, Colleagues and Government of Canada.",
+            link: "",
+          },
+          {
+            text: "Made Standard Operating Procedures (SOPs) and Systems for the Operation Department.",
             link: "",
           },
         ],
