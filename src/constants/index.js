@@ -284,7 +284,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Hongkong and Shanghai Banking Corporation, Hong Kong",
+    organisation: "Hongkong and Shanghai Banking Corporation (HSBC), Hong Kong",
     logo: hsbc,
     link: "https://www.hsbc.com",
     positions: [
@@ -330,7 +330,7 @@ export const experiences = [
     ],
   },  
   {
-    organisation: "dHealth - Blockchain for Healthcare (HSBC), Hong Kong",
+    organisation: "dHealth - Blockchain for Healthcare, Kowloon",
     logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
