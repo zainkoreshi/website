@@ -389,27 +389,27 @@ export const experiences = [
       },
     ],
   },
-  {
-    organisation: "KCM Accounting Limited, Canada",
-    logo: hsbc,
-    link: "https://marketplacebc.ca/marketplace/kcm-accounting-ltd/",
-    positions: [
-      {
-        title: "Project Manager",
-        duration: "May 2021 - July 2021",
-        content: [
-          {
-            text: "Secured funding for more than 40 businesses (over $1,000,000 CAD in total), through the Government of B.C. Small and Medium Sized Business Recovery Grant, to help them recover from the COVID-19 Pandemic.",
-            link: "",
-          },
-          {
-            text: "Helped businesses apply for both steps of the application process, which included preparing and reviewing documentation, communicating with clients, colleagues and the Government of B.C., and preparing Recovery Plans.",
-            link: "",
-          },
-        ],
-      },
-    ],
-  },
+  // {
+  //   organisation: "KCM Accounting Limited, Canada",
+  //   logo: hsbc,
+  //   link: "https://marketplacebc.ca/marketplace/kcm-accounting-ltd/",
+  //   positions: [
+  //     {
+  //       title: "Project Manager",
+  //       duration: "May 2021 - July 2021",
+  //       content: [
+  //         {
+  //           text: "Secured funding for more than 40 businesses (over $1,000,000 CAD in total), through the Government of B.C. Small and Medium Sized Business Recovery Grant, to help them recover from the COVID-19 Pandemic.",
+  //           link: "",
+  //         },
+  //         {
+  //           text: "Helped businesses apply for both steps of the application process, which included preparing and reviewing documentation, communicating with clients, colleagues and the Government of B.C., and preparing Recovery Plans.",
+  //           link: "",
+  //         },
+  //       ],
+  //     },
+  //   ],
+  // },
 ];
 
 export const openSourceContributions = [
