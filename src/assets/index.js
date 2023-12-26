@@ -37,7 +37,7 @@ import graphql from "./graphql.png";
 import portfolio from "./portfolio.jpg";
 import zulip from "./zulip.jpg";
 import publiclab from "./publiclab.png";
-import cdc from "./cdc.png";
+import hsbc from "./hsbc.png";
 import chargeswap from "./chargeswap.png";
 import placeicon from "./place-icon.svg";
 import recruitment from "./recruitment.png";
@@ -84,7 +84,7 @@ export {
   portfolio,
   publiclab,
   zulip,
-  cdc,
+  hsbc,
   zainlogo,
   profilePic,
   chargeswap,
