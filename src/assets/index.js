@@ -34,7 +34,7 @@ import portfolio from "./portfolio.jpg";
 import zulip from "./zulip.jpg";
 import publiclab from "./publiclab.png";
 import hsbc from "./hsbc.png";
-import towerdefence from "./towerdefence.png";
+import towerdefence from "./towerdefense.png";
 import nimmt from "./6nimmt.jpg";
 import connect from "./connect.jpg";
 import batman from "./batman.jpg";
