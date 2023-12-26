@@ -629,21 +629,26 @@ export const projects = [
       },
       {
         id: "icon-2",
-        icon: SiTailwindcss,
-        name: "TailwindCSS"
-      },
-      {
-        id: "icon-3",
         icon: DiCss3,
         name: "CSS"
       },
       {
-        id: "icon-4",
+        id: "icon-3",
         icon: AiFillHtml5,
         name: "HTML"
       },
       {
+        id: "icon-4",
+        icon: SiVite,
+        name: "ViteJS",
+      },
+      {
         id: "icon-5",
+        icon: SiTailwindcss,
+        name: "TailwindCSS"
+      },      
+      {
+        id: "icon-6",
         icon: SiReact,
         name: "React"
       },
@@ -652,41 +657,36 @@ export const projects = [
   {
     id: "project-2",
     title: "Event and Volunteer Management System",
-    github: "https://github.com/mittal-parth/GreenTrust",
-    link: "https://green-trust-fantom.netlify.app/",
+    github: "https://github.com/zainkoreshi/eventManagementWebsite",
+    link: "",
     image: greentrust,
     content:
-      "Winning project at 3 hackathons, GreenTrust offers a novel solution for obtaining certification in organic farming by organizing credible and decentralized Participatory Guarantee Systems (PGSs).",
+      "Developed an event and volunteer management website to store, modify and retrieve data.",
     stack: [
       {
         id: "icon-1",
+        icon: SiJavascript,
+        name: "JavaScript"
+      },
+      {
+        id: "icon-2",
+        icon: DiCss3,
+        name: "CSS"
+      },
+      {
+        id: "icon-3",
+        icon: AiFillHtml5,
+        name: "HTML"
+      },
+      {
+        id: "icon-4",
         icon: SiReact,
         name: "React"
       },
       {
-        id: "icon-2",
-        icon: SiTailwindcss,
-        name: "TailwindCSS"
-      },
-      {
-        id: "icon-3",
-        icon: SiNextdotjs,
-        name: "Next.js"
-      },
-      {
-        id: "icon-4",
-        icon: SiIpfs,
-        name: "IPFS"
-      },
-      {
         id: "icon-5",
-        icon: SiSolidity,
-        name: "Solidity"
-      },
-      {
-        id: "icon-6",
-        icon: IoIosNotificationsOutline,
-        name: "Push Protocol"
+        icon: SiBootstrap,
+        name: "Bootstrap"
       },
     ],
   },
@@ -694,10 +694,10 @@ export const projects = [
     id: "project-3",
     title: "Tower Defence Game",
     github: "https://github.com/zainkoreshi/java_towerdefence",
-    link: "https://devfolio.co/projects/chargeswap-3527",
+    link: "",
     image: chargeswap,
     content:
-      "A Blockchain-based EV-Battery swapping solution - winning project at ETHIndia'22, the world's largest Ethereum Hackathon",
+      "Programmed a Tower Defence Game which includes different types of towers and upgrades. The aim is to defeat as many monsters as possible!",
     stack: [
       {
         id: "icon-1",
@@ -708,33 +708,28 @@ export const projects = [
   },
   {
     id: "project-4",
-    title: "Samsotech Table Management System",
-    github: "",
-    link: "https://www.linkedin.com/posts/mittal-parth_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY?utm_source=share&utm_medium=member_desktop",
+    title: "6 Nimmt ",
+    github: "https://github.com/zainkoreshi/java_6nimmt",
+    link: "",
     image: placeicon,
     content:
-      "Restaurant, Place, Table and realtime Reservation Management with Multi-Tenant Architecture, RBAC, SMS and Email integration for Samsotech International",
+      "6 nimmt! / Take 6! is a card game for 2–10 players designed by Wolfgang Kramer in 1994. I coded this game in Java",
     stack: [
       {
         id: "icon-1",
         icon: SiDotnet,
         name: "Dot Net Core MVC 6"
       },
-      // {
-      //   id: "icon-2",
-      //   icon: SiBootstrap,
-      //   name: "Bootstrap"
-      // },
     ],
   },
   {
     id: "project-5",
-    title: "Non-Teaching Recruitment Portal, NITK",
-    github: "",
+    title: "Connect4",
+    github: "https://github.com/khwang0/COMP2026-2223PA1",
     link: "",
     image: recruitment,
     content:
-      "The official recruitment portal for non-teaching staff with an admin panel, email notifications and payment integration.",
+      "Programmed a game in which the players choose a colour and then take turns dropping them into a grid. The first to make a sequence of four like-coloured tokens wins!",
     stack: [
       {
         id: "icon-1",
