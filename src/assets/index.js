@@ -34,12 +34,12 @@ import portfolio from "./portfolio.jpg";
 import zulip from "./zulip.jpg";
 import publiclab from "./publiclab.png";
 import hsbc from "./hsbc.png";
-import chargeswap from "./chargeswap.png";
-import placeicon from "./place-icon.svg";
-import recruitment from "./recruitment.png";
-import huntly from "./huntly.png";
+import towerdefence from "./towerdefence.png";
+import nimmt from "./6nimmt.jpg";
+import connect from "./connect.jpg";
+import batman from "./batman.jpg";
 import comicify_ai from "./comicify-ai.png";
-import greentrust from "./green_trust.png";
+import managementwebsite from "./managementwebsite.jpg";
 import xymbia from "./xymbia.jpg";
 import avrio from "./avrio.jpg";
 import dhealth from "./dhealth.jpg";
@@ -82,12 +82,12 @@ export {
   hsbc,
   zainlogo,
   profilePic,
-  chargeswap,
-  placeicon,
-  recruitment,
-  huntly,
+  towerdefence,
+  nimmt,
+  connect,
+  batman,
   comicify_ai,
-  greentrust,
+  managementwebsite,
   kcm,
   avrio,
   xymbia,

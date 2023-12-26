@@ -12,12 +12,12 @@ import {
   publiclab,
   zulip,
   hsbc,
-  chargeswap,
-  placeicon,
-  recruitment,
-  huntly,
+  towerdefence,
+  nimmt,
+  connect,
+  batman,
   comicify_ai,
-  greentrust,
+  managementwebsite,
   kcm,
   avrio,
   xymbia,
@@ -659,7 +659,7 @@ export const projects = [
     title: "Event and Volunteer Management System",
     github: "https://github.com/zainkoreshi/eventManagementWebsite",
     link: "",
-    image: greentrust,
+    image: managementwebsite,
     content:
       "Developed an event and volunteer management website to store, modify and retrieve data.",
     stack: [
@@ -695,7 +695,7 @@ export const projects = [
     title: "Tower Defence Game",
     github: "https://github.com/zainkoreshi/java_towerdefence",
     link: "",
-    image: chargeswap,
+    image: towerdefence,
     content:
       "Programmed a Tower Defence Game which includes different types of towers and upgrades. The aim is to defeat as many monsters as possible!",
     stack: [
@@ -711,7 +711,7 @@ export const projects = [
     title: "6 Nimmt ",
     github: "https://github.com/zainkoreshi/java_6nimmt",
     link: "",
-    image: placeicon,
+    image: nimmt,
     content:
       "6 nimmt! / Take 6! is a card game for 2–10 players designed by Wolfgang Kramer in 1994. I coded this game in Java",
     stack: [
@@ -725,9 +725,9 @@ export const projects = [
   {
     id: "project-5",
     title: "Connect4",
-    github: "https://github.com/khwang0/COMP2026-2223PA1",
+    github: "https://github.com/zainkoreshi/java_connect4",
     link: "",
-    image: recruitment,
+    image: connect,
     content:
       "Programmed a game in which the players choose a colour and then take turns dropping them into a grid. The first to make a sequence of four like-coloured tokens wins!",
     stack: [
@@ -743,7 +743,7 @@ export const projects = [
     title: "Escaping Bats: Gotham Edition",
     github: "https://github.com/zainkoreshi/python_dropncatch",
     link: "",
-    image: huntly,
+    image: batman,
     content:
       "Individually designed and implemented a Python mini-game using Processing 3, focused on drop and catch mechanics as a project objective.",
     stack: [
