@@ -128,7 +128,7 @@ export const educationList = [
     id: "education-2",
     icon: headstart,
     title: "Headstart School, Islamabad",
-    degree: "High School Diploma",
+    degree: "High School Diploma in Science",
     duration: "August 2017 - August 2021",
     content1: "Recipient of a renewable 75% Merit Scholarship",
     content2: "Academic Honours: Valedictorian of Class of 2025, Summa cum Laude and multiple honours",
@@ -279,64 +279,21 @@ export const skills = [
 ];
 
 export const experiences = [
-  // {
-  //   organisation: "Oracle, India",
-  //   logo: oracle,
-  //   link: "https://www.oracle.com/in/",
-  //   positions: [
-  //     {
-  //       title: "Member of Technical Staff Intern",
-  //       duration: "May 2023 - Jul 2023",
-  //       content: [
-  //         {
-  //           text: "Working as part of the Exa-CC team building Oracle Database as a service.",
-  //           link: "",
-  //         },
-  //       ],
-  //     },
-  //   ],
-  // },
   {
-    organisation: "IRIS, NITK",
-    logo: headstart,
-    link: "https://iris.nitk.ac.in/about_us",
+    organisation: "Hongkong and Shanghai Banking Corporation (HSBC), Hong Kong",
+    logo: cdc,
+    link: "https://www.hsbc.com",
     positions: [
       {
-        title: "Tech Lead",
-        duration: "Apr 2023 - Present",
+        title: "Student Work Placement Intern",
+        duration: "January 2024 - June 2024",
         content: [
           {
-            text: "Leading a team of 40+ students driving a digital transformation at NITK.",
+            text: "Worked in Financial Securities and Transformation.",
             link: "",
           },
-        ],
-      },
-      {
-        title: "Web Lead",
-        duration: "Apr 2022 - Present",
-        content: [
           {
-            text: "Managing a team of 6 student developers while also overlooking multiple modules.",
-            link: "",
-          },
-        ],
-      },
-      {
-        title: "Web Developer",
-        duration: "Nov 2021 - Apr 2022",
-        content: [
-          {
-            text: "Added Conditional Fields support to the Forms Module.",
-            link: "",
-          },
-        ],
-      },
-      {
-        title: "Web Developer Intern",
-        duration: "Jun 2021 - Oct 2021",
-        content: [
-          {
-            text: "Developed a multi-role approval flow system to facilitate data collection and display on the Institute's Department Websites.",
+            text: "Test and report automation.",
             link: "",
           },
         ],
@@ -344,20 +301,105 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Career Development Centre, NITK",
+    organisation: "Xymbia Inc., Pakistan",
     logo: cdc,
-    link: "https://cdc.nitk.ac.in/",
+    link: "https://www.xymbia.io",
     positions: [
       {
-        title: "Lead Developer",
-        duration: "May 2022 - July 2022",
+        title: "Software Engineering Intern",
+        duration: "July 2023 - August 2023",
         content: [
           {
-            text: "Led a team of 3 developers and developed various parts of the official public website using Ruby on Rails.",
+            text: "Manual and automated testing of the Xymbia Mobile, Web, and Desktop applications.",
             link: "",
           },
           {
-            text: "Setup an admin interface for dynamic content management by different stakeholders.",
+            text: "Custom development of third-party plugins.",
+            link: "",
+          },          
+          {
+            text: "Created OpenAPI Specification for services.",
+            link: "",
+          },
+        ],
+      },
+    ],
+  },  
+  {
+    organisation: "dHealth - Blockchain for Healthcare, Hong Kong",
+    logo: cdc,
+    link: "https://www.dhealth.com",
+    positions: [
+      {
+        title: "Product Design Intern",
+        duration: "October 2022 - March 2023",
+        content: [
+          {
+            text: "Worked on 3 Mobile Applications and 2 Web Applications.",
+            link: "",
+          },
+          {
+            text: "Conducted regular UI/UX Testing.",
+            link: "",
+          },          
+          {
+            text: "Conducted and mapped out User Stories.",
+            link: "",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    organisation: "Avrio Accounting Solutions Inc., Canada",
+    logo: cdc,
+    link: "https://avrioas.ca",
+    positions: [
+      {
+        title: "Business Developer Intern",
+        duration: "October 2021 - January 2022",
+        content: [
+          {
+            text: "Made Standard Operating Procedures (SOPs) and Systems for the Operation Department.",
+            link: "",
+          },
+        ],
+      },
+      {
+        title: "Project Manager",
+        duration: "July 2021 - January 2022",
+        content: [
+          {
+            text: "Managed the files of over 500 Personal and Corporate Tax Clients.",
+            link: "",
+          },          
+          {
+            text: "Delegated work to Bookkeepers, Junior and Senior Accountants.",
+            link: "",
+          },          
+          {
+            text: "Communicated with Clients, Colleagues and Government of Canada.",
+            link: "",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    organisation: "KCM Accounting Limited, Canada",
+    logo: cdc,
+    link: "https://marketplacebc.ca/marketplace/kcm-accounting-ltd/",
+    positions: [
+      {
+        title: "Project Manager",
+        duration: "May 2021 - July 2021",
+        content: [
+          {
+            text: "Secured funding for more than 40 businesses (over $1,000,000 CAD in total), through the Government of B.C. Small and Medium Sized Business Recovery Grant, to help them recover from the COVID-19 Pandemic.",
+            link: "",
+          },
+          {
+            text: "- Helped businesses apply for both steps of the application process, which included preparing and reviewing documentation, communicating with clients, colleagues and the Government of B.C., and preparing Recovery Plans.",
             link: "",
           },
         ],
