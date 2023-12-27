@@ -55,7 +55,6 @@ const Contribution = (props) => {
           ) : (
             <VscIssues size="1.5rem" className="text-violet-700 inline" />
           )}{" "}
-          {props.number}
         </a>
         {props.linesAdded ? (
           <p className="font-poppins font-normal text-[14px]">

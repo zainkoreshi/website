@@ -25,8 +25,8 @@ import hkbuia from "./hkbuia.png";
 import headstart from "./headstart.jpg";
 import hkbucs from "./hkbucs.jpg";
 import todo from "./todo.jpg";
-import zulip from "./zulip.jpg";
-import publiclab from "./publiclab.png";
+import jp from "./jp.jpg";
+import happyer from "./happyer.jpg";
 import hsbc from "./hsbc.png";
 import towerdefence from "./towerdefense.png";
 import nimmt from "./6nimmt.jpg";
@@ -64,8 +64,8 @@ export {
   headstart,
   hkbucs,
   todo,
-  publiclab,
-  zulip,
+  happyer,
+  jp,
   hsbc,
   zainlogo,
   profilePic,
