@@ -1,7 +1,5 @@
 import {
   hkbu,
-  cluboard,
-  cash_flow,
   hkbuia,
   headstart,
   hkbucs,
@@ -27,6 +25,7 @@ import {
   AiFillMail,
   AiOutlineTwitter,
   AiFillHtml5,
+  AiFillGoogleCircle,
 } from "react-icons/ai";
 
 import {
@@ -42,11 +41,24 @@ import {
   SiMysql,
   SiNetlify,
   SiVite,
+  SiTypescript,
+  SiFlutter,
+  SiMongodb,
+  SiEclipseide,
+  SiIntellijidea,
+  SiMicrosoftoffice,
+  SiNotion,
+  SiClickup,
+  SiTrello,
+  SiZoho,
+  SiMicrosoftazure,
+  SiConfluence,
 } from "react-icons/si";
 
 import { 
   DiCss3, 
-  DiJava, 
+  DiJava,
+  DiNodejs,
 } from "react-icons/di";
 
 export const resumeLink = "https://drive.google.com/file/d/1jRurDlAlY_mZJegMatpM2JeaLkhLooR_/view?usp=sharing";
@@ -128,13 +140,18 @@ export const skills = [
       },
       {
         id: "pl-5",
-        icon: DiCss3,
-        name: "CSS",
+        icon: SiJavascript,
+        name: "JavaScript",
       },
       {
         id: "pl-6",
-        icon: SiJavascript,
-        name: "JavaScript",
+        icon: SiTypescript,
+        name: "TypeScript",
+      },      
+      {
+        id: "pl-7",
+        icon: DiCss3,
+        name: "CSS",
       },
     ],
   },
@@ -145,16 +162,21 @@ export const skills = [
         id: "f-1",
         icon: SiReact,
         name: "ReactJS",
-      },
+      },      
       {
         id: "f-2",
-        icon: SiBootstrap,
-        name: "Bootstrap",
+        icon: DiNodejs,
+        name: "NodeJS",
       },
       {
         id: "f-3",
         icon: SiTailwindcss,
         name: "Tailwind CSS",
+      },
+      {
+        id: "f-4",
+        icon: SiBootstrap,
+        name: "Bootstrap",
       },
     ],
   },
@@ -165,36 +187,96 @@ export const skills = [
         id: "t-1",
         icon: SiMysql,
         name: "MySQL",
-      },
+      },      
       {
         id: "t-2",
-        icon: SiPostman,
-        name: "Postman",
-      },
+        icon: SiMongodb,
+        name: "MongoDB",
+      },          
       {
         id: "t-3",
-        icon: SiVisualstudiocode,
-        name: "VS Code",
-      },
+        icon: SiMicrosoftazure,
+        name: "Azure CosmosDB",
+      },      
       {
         id: "t-4",
+        icon: SiVisualstudiocode,
+        name: "VS Code",
+      },        
+      {
+        id: "t-5",
+        icon: SiEclipseide,
+        name: "Eclipse IDE",
+      },          
+      {
+        id: "t-6",
+        icon: SiIntellijidea,
+        name: "IntelliJ IDE",
+      },      
+      {
+        id: "t-7",
+        icon: SiFlutter,
+        name: "Flutter",
+      },
+      {
+        id: "t-8",
         icon: SiGit,
         name: "Git",
       },
       {
-        id: "t-5",
+        id: "t-9",
         icon: AiFillGithub,
         name: "GitHub",
       },
       {
-        id: "t-6",
+        id: "t-10",
         icon: SiNetlify,
         name: "Netlify",
       },
       {
-        id: "t-7",
+        id: "t-11",
         icon: SiVite,
         name: "ViteJS",
+      },  
+      {
+        id: "t-12",
+        icon: SiPostman,
+        name: "Postman",
+      },    
+      {
+        id: "t-13",
+        icon: SiMicrosoftoffice,
+        name: "Microsoft Office",
+      },      
+      {
+        id: "t-14",
+        icon: AiFillGoogleCircle,
+        name: "Google Workspace",
+      },      
+      {
+        id: "t-15",
+        icon: SiNotion,
+        name: "Notion",
+      },      
+      {
+        id: "t-16",
+        icon: SiClickup,
+        name: "Click Up",
+      },
+      {
+        id: "t-17",
+        icon: SiTrello,
+        name: "Trello",
+      },
+      {
+        id: "t-18",
+        icon: SiZoho,
+        name: "Zoho",
+      },
+      {
+        id: "t-19",
+        icon: SiConfluence,
+        name: "Confluence",
       },
     ],
   },
