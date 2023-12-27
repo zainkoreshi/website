@@ -48,6 +48,9 @@ const FeatureCard = ({
       <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[30px] mb-1">
         - {content2}
       </p>
+      <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[30px] mb-1">
+        - {content3}
+      </p>
     </div>
   </div>
 );

@@ -102,6 +102,7 @@ export const educationList = [
     duration: "September 2021 - May 2025",
     content1: "Recipient of a renewable 130% Merit Scholarship",
     content2: "Academic Honours: President’s Honour Roll (2021-22) & Dean’s List (2021-22 & 2022-23)",
+    content3: "President, International Association (2022-23) and Member of International Advisory Committee (2022-24)",
   },
   {
     id: "education-2",
@@ -111,6 +112,7 @@ export const educationList = [
     duration: "August 2017 - August 2021",
     content1: "Recipient of a renewable 75% Merit Scholarship",
     content2: "Academic Honours: Valedictorian of Class of 2025, Summa cum Laude and multiple honours",
+    content3: "President, VP & Class Leader of Student Council (2017-21)",
   },
 ];
 
