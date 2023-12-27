@@ -61,7 +61,7 @@ import {
   DiNodejs,
 } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1jRurDlAlY_mZJegMatpM2JeaLkhLooR_/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/1APYKKrW-cMyt237aFESRYHGOPG0uWjAC/view?usp=sharing";
 export const repoLink = "https://github.com/zainkoreshi";
 
 export const callToAction = "https://www.linkedin.com/in/zainkoreshi/";
