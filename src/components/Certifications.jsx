@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { openSourceContributions } from "../constants";
+import { certificationsAndLicenses } from "../constants";
 import { DiGitMerge, DiGitPullRequest } from "react-icons/di";
 import { VscIssues } from "react-icons/vsc";
 import { motion } from "framer-motion";
@@ -76,8 +76,8 @@ const OpenSource = () => {
   const [activeFilter, setActiveFilter] = useState("All");
 
   useEffect(() => {
-    setContributions(openSourceContributions);
-    setFilterContribution(openSourceContributions);
+    setContributions(certificationsAndLicenses);
+    setFilterContribution(certificationsAndLicenses);
   }, []);
 
   const handleContributionFilter = (item) => {
@@ -97,7 +97,7 @@ const OpenSource = () => {
   };
 
   return (
-    <section id="openSource">
+    <section id="certifications">
       <h1 className="flex-1 font-poppins font-semibold ss:text-[55px] text-[45px] text-white ss:leading-[80px] leading-[80px]">
         Open Source Contributions
       </h1>

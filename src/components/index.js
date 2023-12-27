@@ -5,7 +5,7 @@ import Hero from "./Hero";
 import Education from "./Education";
 import SkillsAndExperience from "./SkillsAndExperience";
 import Projects from "./Projects";
-import OpenSource from "./OpenSource";
+import Certifications from "./Certifications";
 import ExtraCurricular from "./ExtraCurricular";
 import Footer from "./Footer";
 import Button from "./Button";
@@ -20,7 +20,7 @@ export {
     Education,
     SkillsAndExperience,
     Projects,
-    OpenSource,
+    Certifications,
     ExtraCurricular,
     Footer,
     Button,
