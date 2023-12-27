@@ -295,7 +295,7 @@ export const experiences = [
         duration: "January 2024 - June 2024",
         content: [
           {
-            text: "Worked in Financial Securities and Transformation.",
+            text: "Financial Securities and Transformation.",
             link: "",
           },
           {
