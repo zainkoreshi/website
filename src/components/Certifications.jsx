@@ -26,7 +26,7 @@ const Contribution = (props) => {
             {props.title}
           </a>
           <p className="font-poppins italic font-normal text-[14px] text-dimWhite my-1">
-            {props.organisation}/{props.repo}
+            {props.organisation}
           </p>
         </div>
       </div>
@@ -59,8 +59,6 @@ const Contribution = (props) => {
         </a>
         {props.linesAdded ? (
           <p className="font-poppins font-normal text-[14px]">
-            <span className="text-green-600">+{props.linesAdded} </span>
-            <span className="text-red-700">-{props.linesDeleted}</span>
           </p>
         ) : (
           ""
