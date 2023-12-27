@@ -116,8 +116,8 @@ export const skills = [
     items: [
       {
         id: "pl-1",
-        icon: SiCplusplus,
-        name: "C++",
+        icon: DiJava,
+        name: "Java",
       },
       {
         id: "pl-2",
@@ -126,38 +126,23 @@ export const skills = [
       },
       {
         id: "pl-3",
-        icon: DiRuby,
-        name: "Ruby",
-      },
-      {
-        id: "pl-4",
         icon: SiC,
         name: "C",
       },
       {
-        id: "pl-5",
+        id: "pl-4",
         icon: AiFillHtml5,
         name: "HTML",
       },
       {
-        id: "pl-6",
+        id: "pl-5",
         icon: DiCss3,
         name: "CSS",
       },
       {
-        id: "pl-7",
+        id: "pl-6",
         icon: SiJavascript,
         name: "JavaScript",
-      },
-      {
-        id: "pl-8",
-        icon: SiSolidity,
-        name: "Solidity",
-      },
-      {
-        id: "pl-9",
-        icon: DiJava,
-        name: "Java",
       },
     ],
   },
@@ -318,7 +303,7 @@ export const experiences = [
             link: "",
           },          
           {
-            text: "Conducted and mapped out User Stories.",
+            text: "Mapped out User Stories.",
             link: "",
           },
         ],
