@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { certificationsAndLicenses } from "../constants";
-import { DiGitMerge, DiGitPullRequest } from "react-icons/di";
-import { VscIssues } from "react-icons/vsc";
 import { motion } from "framer-motion";
 
 const Contribution = (props) => {
@@ -36,26 +34,6 @@ const Contribution = (props) => {
           props.linesAdded ? "justify-around ml-2" : "ml-10"
         } mt-4`}
       >
-        <a
-          className="font-poppins font-normal text-[12px] text-dimWhite inline"
-          href={props.link}
-          target="_blank"
-        >
-          {props.type === "pull-request" ? (
-            props.status === "merged" ? (
-              <DiGitMerge size="1.5rem" className="text-violet-700 inline" />
-            ) : (
-              <DiGitPullRequest
-                size="1.5rem"
-                className="text-green-600 inline"
-              />
-            )
-          ) : props.status === "open" ? (
-            <VscIssues size="1.5rem" className="text-green-600 inline" />
-          ) : (
-            <VscIssues size="1.5rem" className="text-violet-700 inline" />
-          )}{" "}
-        </a>
         {props.linesAdded ? (
           <p className="font-poppins font-normal text-[14px]">
           </p>
