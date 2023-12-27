@@ -419,7 +419,7 @@ export const experiences = [
 export const certificationsAndLicenses = [
   {
     id: "os-1",
-    organisation: "PublicLab",
+    organisation: "Certifications",
     logo: publiclab,
     repo: "plots2",
     type: "pull-request",
@@ -434,7 +434,7 @@ export const certificationsAndLicenses = [
   },
   {
     id: "os-2",
-    organisation: "PublicLab",
+    organisation: "Certifications",
     logo: publiclab,
     repo: "plots2",
     type: "pull-request",
@@ -448,7 +448,7 @@ export const certificationsAndLicenses = [
   },
   {
     id: "os-3",
-    organisation: "PublicLab",
+    organisation: "Certifications",
     logo: publiclab,
     repo: "plots2",
     type: "pull-request",
@@ -462,7 +462,7 @@ export const certificationsAndLicenses = [
   },
   {
     id: "os-4",
-    organisation: "Zulip",
+    organisation: "Licenses",
     logo: zulip,
     repo: "zulip",
     type: "pull-request",
@@ -476,7 +476,7 @@ export const certificationsAndLicenses = [
   },
   {
     id: "os-5",
-    organisation: "Zulip",
+    organisation: "Licenses",
     logo: zulip,
     repo: "zulip",
     type: "pull-request",
