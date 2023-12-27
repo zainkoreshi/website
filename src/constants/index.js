@@ -29,30 +29,21 @@ import {
   AiFillMail,
   AiOutlineTwitter,
   AiFillHtml5,
-  AiOutlineGoogle,
-  AiOutlineGitlab,
 } from "react-icons/ai";
 
 import {
-  SiDjango,
   SiJavascript,
   SiBootstrap,
   SiReact,
   SiTailwindcss,
-  SiGraphql,
   SiPython,
-  SiCplusplus,
   SiC,
-  SiRubyonrails,
-  SiJquery,
   SiVisualstudiocode,
   SiPostman,
   SiGit,
   SiMysql,
-  SiSolidity,
   SiNetlify,
   SiVite,
-  SiDotnet,
 } from "react-icons/si";
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
@@ -151,43 +142,18 @@ export const skills = [
     items: [
       {
         id: "f-1",
-        icon: SiDjango,
-        name: "Django",
-      },
-      {
-        id: "f-2",
-        icon: SiRubyonrails,
-        name: "Ruby on Rails",
-      },
-      {
-        id: "f-3",
         icon: SiReact,
         name: "ReactJS",
       },
       {
-        id: "f-4",
+        id: "f-2",
         icon: SiBootstrap,
         name: "Bootstrap",
       },
       {
-        id: "f-5",
+        id: "f-3",
         icon: SiTailwindcss,
         name: "Tailwind CSS",
-      },
-      {
-        id: "f-6",
-        icon: SiJquery,
-        name: "jQuery",
-      },
-      {
-        id: "f-7",
-        icon: SiGraphql,
-        name: "GraphQL",
-      },
-      {
-        id: "f-8",
-        icon: SiDotnet,
-        name: ".NET",
       },
     ],
   },
@@ -221,16 +187,11 @@ export const skills = [
       },
       {
         id: "t-6",
-        icon: AiOutlineGitlab,
-        name: "Gitlab",
-      },
-      {
-        id: "t-7",
         icon: SiNetlify,
         name: "Netlify",
       },
       {
-        id: "t-8",
+        id: "t-7",
         icon: SiVite,
         name: "ViteJS",
       },
