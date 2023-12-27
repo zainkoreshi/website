@@ -116,28 +116,48 @@ export const skills = [
     items: [
       {
         id: "pl-1",
-        icon: DiJava,
-        name: "Java",
+        icon: SiCplusplus,
+        name: "C++",
       },
       {
         id: "pl-2",
-        icon: SiC,
-        name: "C",
-      },
-      {
-        id: "pl-3",
         icon: SiPython,
         name: "Python",
       },
       {
+        id: "pl-3",
+        icon: DiRuby,
+        name: "Ruby",
+      },
+      {
         id: "pl-4",
+        icon: SiC,
+        name: "C",
+      },
+      {
+        id: "pl-5",
         icon: AiFillHtml5,
         name: "HTML",
       },
       {
-        id: "pl-5",
+        id: "pl-6",
+        icon: DiCss3,
+        name: "CSS",
+      },
+      {
+        id: "pl-7",
         icon: SiJavascript,
         name: "JavaScript",
+      },
+      {
+        id: "pl-8",
+        icon: SiSolidity,
+        name: "Solidity",
+      },
+      {
+        id: "pl-9",
+        icon: DiJava,
+        name: "Java",
       },
     ],
   },
@@ -146,34 +166,44 @@ export const skills = [
     items: [
       {
         id: "f-1",
-        icon: SiReact,
-        name: "ReactJS",
+        icon: SiDjango,
+        name: "Django",
       },
-      // {
-      //   id: "f-2",
-      //   icon: SiNodejs,
-      //   name: "NodeJS",
-      // },
       {
         id: "f-2",
-        icon: DiCss3s,
-        name: "CSS",
+        icon: SiRubyonrails,
+        name: "Ruby on Rails",
       },
       {
         id: "f-3",
-        icon: SiTailwindcss,
-        name: "Tailwind CSS",
+        icon: SiReact,
+        name: "ReactJS",
       },
       {
         id: "f-4",
         icon: SiBootstrap,
         name: "Bootstrap",
       },
-      // {
-      //   id: "f-6",
-      //   icon: SiExpress,
-      //   name: "ExpressJS",
-      // },
+      {
+        id: "f-5",
+        icon: SiTailwindcss,
+        name: "Tailwind CSS",
+      },
+      {
+        id: "f-6",
+        icon: SiJquery,
+        name: "jQuery",
+      },
+      {
+        id: "f-7",
+        icon: SiGraphql,
+        name: "GraphQL",
+      },
+      {
+        id: "f-8",
+        icon: SiDotnet,
+        name: ".NET",
+      },
     ],
   },
   {
@@ -206,16 +236,16 @@ export const skills = [
       },
       {
         id: "t-6",
+        icon: AiOutlineGitlab,
+        name: "Gitlab",
+      },
+      {
+        id: "t-7",
         icon: SiNetlify,
         name: "Netlify",
       },
-      // {
-      //   id: "t-7",
-      //   icon: SiVue,
-      //   name: "VueJS",
-      // },
       {
-        id: "t-7",
+        id: "t-8",
         icon: SiVite,
         name: "ViteJS",
       },
