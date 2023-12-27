@@ -21,10 +21,6 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import hkbu from "./hkbu.png";
-import cluboard from "./cluboard.png";
-import cash_flow from "./cash_flow.jpg";
-import freadom from "./freadom.jpg";
-import bank from "./bank.jpg";
 import hkbuia from "./hkbuia.png";
 import headstart from "./headstart.jpg";
 import hkbucs from "./hkbucs.jpg";
@@ -64,10 +60,6 @@ export {
   people02,
   people03,
   hkbu,
-  cluboard,
-  cash_flow,
-  freadom,
-  bank,
   hkbuia,
   headstart,
   hkbucs,

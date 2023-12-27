@@ -2,8 +2,6 @@ import {
   hkbu,
   cluboard,
   cash_flow,
-  freadom,
-  bank,
   hkbuia,
   headstart,
   hkbucs,
@@ -46,7 +44,10 @@ import {
   SiVite,
 } from "react-icons/si";
 
-import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
+import { 
+  DiCss3, 
+  DiJava, 
+} from "react-icons/di";
 
 export const resumeLink = "https://drive.google.com/file/d/1jRurDlAlY_mZJegMatpM2JeaLkhLooR_/view?usp=sharing";
 export const repoLink = "https://github.com/zainkoreshi";
@@ -89,7 +90,7 @@ export const educationList = [
     duration: "September 2021 - May 2025",
     content1: "Recipient of a renewable 130% Merit Scholarship",
     content2: "Academic Honours: President’s Honour Roll (2021-22) & Dean’s List (2021-22 & 2022-23)",
-  },  
+  },
   {
     id: "education-2",
     icon: headstart,
@@ -237,7 +238,7 @@ export const experiences = [
           {
             text: "Custom development of third-party plugins.",
             link: "",
-          },          
+          },
           {
             text: "Created OpenAPI Specification for services.",
             link: "",
@@ -245,7 +246,7 @@ export const experiences = [
         ],
       },
     ],
-  },  
+  },
   {
     organisation: "dHealth - Blockchain for Healthcare (Kowloon, Hong Kong SAR)",
     logo: dhealth,
@@ -262,7 +263,7 @@ export const experiences = [
           {
             text: "Conducted regular UI/UX Testing.",
             link: "",
-          },          
+          },
           {
             text: "Mapped out User Stories.",
             link: "",
@@ -293,11 +294,11 @@ export const experiences = [
           {
             text: "Managed the files of over 500 Personal and Corporate Tax Clients.",
             link: "",
-          },          
+          },
           {
             text: "Delegated work to Bookkeepers, Junior and Senior Accountants.",
             link: "",
-          },          
+          },
           {
             text: "Communicated with Clients, Colleagues and Government of Canada.",
             link: "",
@@ -567,7 +568,7 @@ export const projects = [
         id: "icon-5",
         icon: SiTailwindcss,
         name: "TailwindCSS"
-      },      
+      },
       {
         id: "icon-6",
         icon: SiReact,
@@ -828,7 +829,7 @@ export const socialMedia = [
 ];
 
 export const aboutMe = {
-    name: "Zain Koreshi",
-    tagLine: "BSc (Hons.) in Computer Science • 2024 Intern @ HSBC • President of HKBU’s International Association",
-    intro: "A penultimate student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development."
+  name: "Zain Koreshi",
+  tagLine: "BSc (Hons.) in Computer Science • 2024 Intern @ HSBC • President of HKBU’s International Association",
+  intro: "A penultimate student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development."
 }
