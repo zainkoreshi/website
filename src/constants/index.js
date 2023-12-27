@@ -735,5 +735,5 @@ export const socialMedia = [
 export const aboutMe = {
   name: "Zain Koreshi",
   tagLine: "BSc (Hons.) in Computer Science • 2024 Intern @ HSBC • President of HKBU’s International Association",
-  intro: "A penultimate student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development.\n Aside from my technical expertise and work experience, I have listed all of my projects, certifications, licenses and extra-curriculars in this website. I also thoroughly enjoy reading, travelling, swimming, cycling and working on self development. Not to mention, I really enjoying trying out different cuisines and restaurants!",
+  intro: "A penultimate student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development. Aside from my technical expertise and work experience, I have listed all of my projects, certifications, licenses and extra-curriculars in this website.",
 }
