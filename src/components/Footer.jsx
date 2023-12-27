@@ -59,7 +59,7 @@ const Footer = () => (
     </div>
     <div className="text-center font-poppins font-normal text-dimWhite text-xs sm:text-sm pb-4">
       <p>
-        Thank you so much for visiting! I really appreciate it.
+        Thank you so much for visiting!
       </p>
     </div>
   </footer>
