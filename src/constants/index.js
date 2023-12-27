@@ -149,31 +149,31 @@ export const skills = [
         icon: SiReact,
         name: "ReactJS",
       },
+      // {
+      //   id: "f-2",
+      //   icon: SiNodejs,
+      //   name: "NodeJS",
+      // },
       {
         id: "f-2",
-        icon: SiNodejs,
-        name: "NodeJS",
-      },
-      {
-        id: "f-3",
         icon: DiCss3s,
         name: "CSS",
       },
       {
-        id: "f-4",
+        id: "f-3",
         icon: SiTailwindcss,
         name: "Tailwind CSS",
       },
       {
-        id: "f-5",
+        id: "f-4",
         icon: SiBootstrap,
         name: "Bootstrap",
       },
-      {
-        id: "f-6",
-        icon: SiExpress,
-        name: "ExpressJS",
-      },
+      // {
+      //   id: "f-6",
+      //   icon: SiExpress,
+      //   name: "ExpressJS",
+      // },
     ],
   },
   {
@@ -209,13 +209,13 @@ export const skills = [
         icon: SiNetlify,
         name: "Netlify",
       },
+      // {
+      //   id: "t-7",
+      //   icon: SiVue,
+      //   name: "VueJS",
+      // },
       {
         id: "t-7",
-        icon: SiVue,
-        name: "VueJS",
-      },
-      {
-        id: "t-8",
         icon: SiVite,
         name: "ViteJS",
       },
