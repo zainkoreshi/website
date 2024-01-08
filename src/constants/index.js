@@ -16,7 +16,6 @@ import {
   xymbia,
   dhealth,
   zainlogo,
-  google
 } from "../assets";
 
 import {
@@ -436,14 +435,6 @@ export const certificationsAndLicenses = [
     title: "Software Engineering Job Simulation by JP Morgan Chase & Co.",
     link: "https://www.theforage.com/simulations/jpmorgan/software-engineering-btjx",
     date: "Dec 27 2023",
-  },  
-  {
-    id: "os-3",
-    organisation: "Certifications",
-    logo: google,
-    title: "Technical Support Fundamentals by Google",
-    link: "https://coursera.org/share/7c2e18fb370c3eade73921b4e9686097",
-    date: "Jan 8 2024",
   },
 ];
 
