@@ -16,6 +16,7 @@ import {
   xymbia,
   dhealth,
   zainlogo,
+  google,
 } from "../assets";
 
 import {
@@ -439,7 +440,7 @@ export const certificationsAndLicenses = [
   {
     id: "os-3",
     organisation: "Certifications",
-    logo: AiFillGoogleCircle,
+    logo: google,
     title: "Technical Support Fundamentals by Google",
     link: "https://coursera.org/share/7c2e18fb370c3eade73921b4e9686097",
     date: "Jan 8 2024",
