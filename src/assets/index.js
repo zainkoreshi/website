@@ -37,7 +37,6 @@ import xymbia from "./xymbia.jpg";
 import avrio from "./avrio.jpg";
 import dhealth from "./dhealth.jpg";
 import kcm from "./kcm.png";
-import google from "./google.jpg";
 
 export {
   bill,
@@ -79,5 +78,4 @@ export {
   avrio,
   xymbia,
   dhealth,
-  google,
 };
