@@ -37,8 +37,10 @@ import xymbia from "./xymbia.jpg";
 import avrio from "./avrio.jpg";
 import dhealth from "./dhealth.jpg";
 import kcm from "./kcm.png";
+import googleIcon from "./google-icon.jpg";
 
 export {
+  googleIcon,
   bill,
   card,
   quotes,
