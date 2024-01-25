@@ -301,7 +301,7 @@ export const experiences = [
             link: "",
           },
           {
-            text: "Testing, reporting, template definition, and methodology documentation",
+            text: "Testing, reporting, template definition, and methodology documentation.",
             link: "",
           },
         ],
