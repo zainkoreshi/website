@@ -63,7 +63,7 @@ import {
   DiNodejs,
 } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1APYKKrW-cMyt237aFESRYHGOPG0uWjAC/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/14ayR7dOQ1TqSxjQo-FWljr_RNb4uFM4y/view?usp=share_link";
 export const repoLink = "https://github.com/zainkoreshi";
 
 export const callToAction = "https://www.linkedin.com/in/zainkoreshi/";
@@ -297,11 +297,11 @@ export const experiences = [
         duration: "January 2024 - June 2024",
         content: [
           {
-            text: "Financial Securities and Transformation.",
+            text: "Automation using programming languages such as Python and VBA.",
             link: "",
           },
           {
-            text: "Test and report automation.",
+            text: "Testing, reporting, template definition, and methodology documentation",
             link: "",
           },
         ],
