@@ -297,11 +297,19 @@ export const experiences = [
         duration: "January 2024 - June 2024",
         content: [
           {
-            text: "Automation using programming languages such as Python and VBA.",
+            text: "Automated several processes, procedures and tasks using programming languages such as Python and VBA (Excel).",
             link: "",
           },
           {
-            text: "Testing, reporting, template definition, and methodology documentation.",
+            text: "Carried out data analysis using large data sets, databases, and programs.",
+            link: "",
+          },
+          {
+            text: "Removed pain points, redundancy and improved processes for company-wide Global Finance functions by implementing change frameworks and Information Technology.",
+            link: "",
+          },
+          {
+            text: "Testing, reporting, template definition and documentation.",
             link: "",
           },
         ],
