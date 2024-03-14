@@ -26,6 +26,7 @@ import headstart from "./headstart.jpg";
 import hkbucs from "./hkbucs.jpg";
 import todo from "./todo.jpg";
 import jp from "./jp.jpg";
+import goldman from "./goldman.jpg";
 import happyer from "./happyer.jpg";
 import hsbc from "./hsbc.png";
 import towerdefence from "./towerdefense.png";
@@ -68,6 +69,7 @@ export {
   todo,
   happyer,
   jp,
+  goldman,
   hsbc,
   zainlogo,
   profilePic,
