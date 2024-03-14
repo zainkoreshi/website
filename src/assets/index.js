@@ -27,6 +27,10 @@ import hkbucs from "./hkbucs.jpg";
 import todo from "./todo.jpg";
 import jp from "./jp.jpg";
 import goldman from "./goldman.jpg";
+import wf from "./wf.jpg";
+import citi from "./citi.jpg";
+import boa from "./boa.jpg";
+import accenture from "./accenture.jpg";
 import happyer from "./happyer.jpg";
 import hsbc from "./hsbc.png";
 import towerdefence from "./towerdefense.png";
@@ -70,6 +74,10 @@ export {
   happyer,
   jp,
   goldman,
+  wf,
+  citi,
+  boa,
+  accenture,
   hsbc,
   zainlogo,
   profilePic,
