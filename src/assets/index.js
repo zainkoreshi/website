@@ -31,6 +31,7 @@ import wf from "./wf.jpg";
 import citi from "./citi.jpg";
 import boa from "./boa.jpg";
 import accenture from "./accenture.jpg";
+import hackerrank from "./hackerrank.jpg";
 import happyer from "./happyer.jpg";
 import hsbc from "./hsbc.png";
 import towerdefence from "./towerdefense.png";
@@ -78,6 +79,7 @@ export {
   citi,
   boa,
   accenture,
+  hackerrank,
   hsbc,
   zainlogo,
   profilePic,
