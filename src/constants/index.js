@@ -740,7 +740,7 @@ export const extraCurricular = [
   {
     organisation: "Department of Computer Science, HKBU",
     title: "Peer Tutor",
-    duration: "September 2023 - Present",
+    duration: "September 2023 - August 2024",
     content: [
       {
         text: "Helped six juniors with Python, Java, C and SQL on courses such as Object Oriented Programming, Data Structures and Algorithms, and Database Management",
