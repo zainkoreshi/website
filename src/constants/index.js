@@ -34,6 +34,7 @@ import {
   AiOutlineTwitter,
   AiFillHtml5,
   AiFillGoogleCircle,
+  AiFillYoutube,
 } from "react-icons/ai";
 
 import {
@@ -781,21 +782,26 @@ export const socialMedia = [
   },
   {
     id: "social-media-2",
+    icon: AiFillYoutube,
+    link: "https://youtube.com/@ZainKoreshi",
+  },
+  {
+    id: "social-media-3",
     icon: AiFillGithub,
     link: "https://github.com/zainkoreshi",
   },
   {
-    id: "social-media-3",
+    id: "social-media-4",
     icon: AiFillMail,
     link: "mailto:zainkoreshi769@gmail.com",
   },
   {
-    id: "social-media-4",
+    id: "social-media-5",
     icon: AiOutlineTwitter,
     link: "https://twitter.com/ZainKoreshi",
   },
   {
-    id: "social-media-5",
+    id: "social-media-6",
     icon: AiFillInstagram,
     link: "https://www.instagram.com/zainkoreshi/",
   },
