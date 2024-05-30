@@ -299,7 +299,7 @@ export const experiences = [
     link: "https://www.hsbc.com",
     positions: [
       {
-        title: "Student Work Placement Intern",
+        title: "Information Technology Intern",
         duration: "January 2024 - June 2024",
         content: [
           {
