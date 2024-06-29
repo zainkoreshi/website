@@ -3,6 +3,8 @@ import {
   hkbuia,
   headstart,
   hkbucs,
+  youtube,
+  genai,
   happyer,
   jp,
   goldman,
@@ -739,7 +741,7 @@ export const stats = [
 export const extraCurricular = [
   {
     organisation: "YouTube Channel",
-    title: "AI Content Creator",
+    title: "Computer Science Content Creator",
     duration: "May 2024 - on going",
     content: [
       {
@@ -747,7 +749,7 @@ export const extraCurricular = [
         link: "https://www.youtube.com/@zainkoreshi",
       },
     ],
-    logo: hkbucs,
+    logo: youtube,
   },
   {
     organisation: "Generative AI",
@@ -759,7 +761,7 @@ export const extraCurricular = [
         link: "https://www.skool.com/generativeai",
       },
     ],
-    logo: hkbucs,
+    logo: genai,
   },
   {
     organisation: "Department of Computer Science, HKBU",

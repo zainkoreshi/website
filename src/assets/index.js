@@ -44,6 +44,8 @@ import avrio from "./avrio.jpg";
 import dhealth from "./dhealth.jpg";
 import kcm from "./kcm.png";
 import googleIcon from "./google-icon.jpg";
+import youtube from "./youtube.jpg";
+import genai from "./genai.jpg";
 
 export {
   googleIcon,
@@ -71,6 +73,8 @@ export {
   hkbuia,
   headstart,
   hkbucs,
+  youtube,
+  genai,
   todo,
   happyer,
   jp,
