@@ -738,6 +738,30 @@ export const stats = [
 
 export const extraCurricular = [
   {
+    organisation: "YouTube Channel",
+    title: "AI Content Creator",
+    duration: "May 2024 - on going",
+    content: [
+      {
+        text: "Create courses and e-learning materials on Artificial Intelligence, Machine Learning, Data Science, and Computer Science.",
+        link: "https://www.youtube.com/@zainkoreshi",
+      },
+    ],
+    logo: hkbucs,
+  },
+  {
+    organisation: "Generative AI",
+    title: "Community Manager",
+    duration: "Feb 2024 - on going",
+    content: [
+      {
+        text: "Run Hong Kong's first ever Generative AI community. Organise workshops, competitions, and events. Run courses, showcases, and lead discussions.",
+        link: "https://www.skool.com/generativeai",
+      },
+    ],
+    logo: hkbucs,
+  },
+  {
     organisation: "Department of Computer Science, HKBU",
     title: "Peer Tutor",
     duration: "September 2023 - August 2024",
@@ -809,6 +833,6 @@ export const socialMedia = [
 
 export const aboutMe = {
   name: "Zain Koreshi",
-  tagLine: "BSc (Hons.) in Computer Science • ex Intern @ HSBC • Intern @ HBZ • Running Hong Kong's First GenAI Community",
+  tagLine: "BSc (Hons.) in Computer Science • Intern @ HBZ • ex Intern @ HSBC • Running Hong Kong's First GenAI Community",
   intro: "A penultimate student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development. Aside from my technical expertise and work experience, I have listed all of my projects, certifications, licenses and extra-curriculars in this website. I also make YouTube videos! Please check out my channel: https://www.youtube.com/@zainkoreshi",
 }
