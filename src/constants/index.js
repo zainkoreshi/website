@@ -297,7 +297,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Hongkong and Shanghai Banking Corporation, HSBC (Central, Hong Kong SAR)",
+    organisation: "Hongkong and Shanghai Banking Corporation, HSBC (Hong Kong SAR)",
     logo: hsbc,
     link: "https://www.hsbc.com",
     positions: [
@@ -326,7 +326,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Xymbia Inc. (Islamabad, Pakistan)",
+    organisation: "Xymbia Inc. (Pakistan)",
     logo: xymbia,
     link: "https://www.xymbia.io",
     positions: [
@@ -351,7 +351,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "dHealth - Blockchain for Healthcare (Kowloon, Hong Kong SAR)",
+    organisation: "dHealth - Blockchain for Healthcare (Hong Kong SAR)",
     logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
@@ -376,7 +376,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Avrio Accounting Solutions Inc. (Islamabad, Pakistan)",
+    organisation: "Avrio Accounting Solutions Inc. (Canada)",
     logo: avrio,
     link: "https://avrioas.ca",
     positions: [
@@ -836,5 +836,5 @@ export const socialMedia = [
 export const aboutMe = {
   name: "Zain Koreshi",
   tagLine: "BSc (Hons.) in Computer Science • Finance IT Intern • Running Hong Kong's First GenAI Community",
-  intro: "A penultimate student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development. Aside from my technical expertise and work experience, I have listed all of my projects, certifications, licenses and extra-curriculars in this website. I also make YouTube videos! Please check out my channel: https://www.youtube.com/@zainkoreshi",
+  intro: "A final year student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development. Aside from my technical expertise and work experience, I have listed all of my projects, certifications, licenses and extra-curriculars in this website. I also make YouTube videos! Please check out my channel: https://www.youtube.com/@zainkoreshi",
 }
