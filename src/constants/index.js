@@ -297,7 +297,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Hongkong and Shanghai Banking Corporation, HSBC (Hong Kong SAR)",
+    organisation: "Hongkong and Shanghai Banking Corporation, HSBC (Hybrid, Full-Time - Hong Kong SAR)",
     logo: hsbc,
     link: "https://www.hsbc.com",
     positions: [
@@ -326,7 +326,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Xymbia Inc. (Pakistan)",
+    organisation: "Xymbia Inc. (In-Person, Full-Time - Pakistan)",
     logo: xymbia,
     link: "https://www.xymbia.io",
     positions: [
@@ -351,7 +351,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "dHealth - Blockchain for Healthcare (Hong Kong SAR)",
+    organisation: "dHealth - Blockchain for Healthcare (Hybrid, Full-Time - Hong Kong SAR)",
     logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
@@ -376,7 +376,7 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Avrio Accounting Solutions Inc. (Canada)",
+    organisation: "Avrio Accounting Solutions Inc. (Remote, Full-Time - Canada)",
     logo: avrio,
     link: "https://avrioas.ca",
     positions: [
