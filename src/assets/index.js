@@ -34,6 +34,7 @@ import accenture from "./accenture.jpg";
 import hackerrank from "./hackerrank.jpg";
 import happyer from "./happyer.jpg";
 import hsbc from "./hsbc.png";
+import hbz from "./hbz.jpeg";
 import towerdefence from "./towerdefense.png";
 import nimmt from "./6nimmt.jpg";
 import connect from "./connect.jpg";
@@ -85,6 +86,7 @@ export {
   accenture,
   hackerrank,
   hsbc,
+  hbz,
   zainlogo,
   profilePic,
   towerdefence,

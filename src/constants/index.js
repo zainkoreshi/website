@@ -14,6 +14,7 @@ import {
   accenture,
   hackerrank,
   hsbc,
+  hbz,
   towerdefence,
   nimmt,
   connect,
@@ -298,7 +299,7 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Habib Bank Zurich, HBZ (In-Person, Full-Time - Hong Kong SAR)",
-    logo: hsbc,
+    logo: hbz,
     link: "https://www.hbzhongkong.com",
     positions: [
       {
