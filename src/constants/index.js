@@ -297,13 +297,13 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Hongkong and Shanghai Banking Corporation, HSBC (Hybrid, Full-Time - Hong Kong SAR)",
+    organisation: "Habib Bank Zurich (Hong Kong) Limited, HBZ (In-Person, Full-Time - Hong Kong SAR)",
     logo: hsbc,
-    link: "https://www.hsbc.com",
+    link: "https://www.hbzhongkong.com",
     positions: [
       {
         title: "Information Technology Intern",
-        duration: "January 2024 - June 2024",
+        duration: "July 2024 - August 2024",
         content: [
           {
             text: "Automated several processes, procedures and tasks using programming languages such as Python and VBA (Excel).",
