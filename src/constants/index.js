@@ -306,19 +306,15 @@ export const experiences = [
         duration: "July 2024 - August 2024",
         content: [
           {
-            text: "Automated several processes, procedures and tasks using programming languages such as Python and VBA (Excel).",
+            text: "Worked for the Treasury and Information Technology Teams.",
             link: "",
           },
           {
-            text: "Carried out data analysis using large data sets, databases, and programs.",
+            text: "Automated several reports, procedures and tasks using programming languages such as HTML, ReactJS and SQL.",
             link: "",
           },
           {
-            text: "Removed pain points, redundancy and improved processes for company-wide Global Finance functions by implementing change frameworks and Information Technology.",
-            link: "",
-          },
-          {
-            text: "Testing, reporting, template definition and documentation.",
+            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements",
             link: "",
           },
         ],
