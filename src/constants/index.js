@@ -297,7 +297,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Habib Bank Zurich (Hong Kong) Limited, HBZ (In-Person, Full-Time - Hong Kong SAR)",
+    organisation: "Habib Bank Zurich, HBZ (In-Person, Full-Time - Hong Kong SAR)",
     logo: hsbc,
     link: "https://www.hbzhongkong.com",
     positions: [
