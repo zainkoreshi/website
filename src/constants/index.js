@@ -319,7 +319,7 @@ export const experiences = [
             link: "",
           },
           {
-            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements",
+            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements.",
             link: "",
           },
         ],
@@ -337,7 +337,7 @@ export const experiences = [
             link: "",
           },
           {
-            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements",
+            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements.",
             link: "",
           },
         ],
