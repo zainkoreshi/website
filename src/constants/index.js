@@ -298,13 +298,13 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Habib Bank Zurich, HBZ (In-Person, Full-Time - Hong Kong SAR)",
+    organisation: "Habib Bank Zurich, HBZ",
     logo: hbz,
     link: "https://www.hbzhongkong.com",
     positions: [
       {
         title: "Information Technology Intern",
-        duration: "September 2024 - ongoing",
+        duration: "September 2024 - ongoing (In-Person, Part-Time - Hong Kong SAR)",
         content: [
           {
             text: "Worked for the Treasury and Credit Risk Teams.",
@@ -326,7 +326,7 @@ export const experiences = [
       },
       {
         title: "Information Technology Intern",
-        duration: "July 2024 - August 2024",
+        duration: "July 2024 - August 2024 (In-Person, Full-Time - Hong Kong SAR)",
         content: [
           {
             text: "Worked for the Treasury and Information Technology Teams.",
@@ -345,13 +345,13 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Hongkong and Shanghai Banking Corporation, HSBC (Hybrid, Full-Time - Hong Kong SAR)",
+    organisation: "Hongkong and Shanghai Banking Corporation, HSBC",
     logo: hsbc,
     link: "https://www.hsbc.com",
     positions: [
       {
         title: "Information Technology Intern",
-        duration: "January 2024 - June 2024",
+        duration: "January 2024 - June 2024 (Hybrid, Full-Time - Hong Kong SAR)",
         content: [
           {
             text: "Automated several processes, procedures and tasks using programming languages such as Python and VBA (Excel).",
@@ -374,13 +374,13 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Xymbia Inc. (In-Person, Full-Time - Pakistan)",
+    organisation: "Xymbia Inc.",
     logo: xymbia,
     link: "https://www.xymbia.io",
     positions: [
       {
         title: "Software Engineering Intern",
-        duration: "July 2023 - August 2023",
+        duration: "July 2023 - August 2023 (In-Person, Full-Time - Pakistan)",
         content: [
           {
             text: "Manual and automated testing of the Xymbia Mobile, Web, and Desktop applications.",
@@ -399,13 +399,13 @@ export const experiences = [
     ],
   },
   {
-    organisation: "dHealth - Blockchain for Healthcare (Hybrid, Full-Time - Hong Kong SAR)",
+    organisation: "dHealth - Blockchain for Healthcare",
     logo: dhealth,
     link: "https://www.dhealth.com",
     positions: [
       {
         title: "Product Design Intern",
-        duration: "October 2022 - March 2023",
+        duration: "October 2022 - March 2023 (Hybrid, Full-Time - Hong Kong SAR)",
         content: [
           {
             text: "Worked on 3 Mobile Applications and 2 Web Applications.",
@@ -424,13 +424,13 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Avrio Accounting Solutions Inc. (Remote, Full-Time - Canada)",
+    organisation: "Avrio Accounting Solutions Inc.",
     logo: avrio,
     link: "https://avrioas.ca",
     positions: [
       {
         title: "Project Manager",
-        duration: "May 2021 - January 2022",
+        duration: "May 2021 - January 2022 (Remote, Full-Time - Canada)",
         content: [
           {
             text: "Secured funding for more than 40 businesses (over $1,000,000 CAD in total), through the Government of B.C. Small and Medium Sized Business Recovery Grant, to help them recover from the COVID-19 Pandemic.",
