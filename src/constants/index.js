@@ -73,7 +73,7 @@ import {
   DiNodejs,
 } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/drive/folders/1r4gmbxa8KXMB2cHtzV3cTa6BnFebccqg?usp=share_link";
+export const resumeLink = "https://drive.google.com/drive/folders/1k1wzH6RjMjY9HdBDBJ9_2wABDWNDqXnf?usp=sharing";
 export const repoLink = "https://github.com/zainkoreshi";
 
 export const callToAction = "https://www.linkedin.com/in/zainkoreshi/";
@@ -304,6 +304,28 @@ export const experiences = [
     positions: [
       {
         title: "Information Technology Intern",
+        duration: "September 2024 - ongoing",
+        content: [
+          {
+            text: "Worked for the Treasury and Credit Risk Teams.",
+            link: "",
+          },
+          {
+            text: "Automated several reports, procedures and tasks for Treasury using programming languages such as HTML, ReactJS and SQL.",
+            link: "",
+          },
+          {
+            text: "Developing a unified database for Credit Risk pertaining to Obligor and Bank Exposure using programming languages such as Python, Pandas, DB Browser and SQLite3.",
+            link: "",
+          },
+          {
+            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements",
+            link: "",
+          },
+        ],
+      },
+      {
+        title: "Information Technology Intern",
         duration: "July 2024 - August 2024",
         content: [
           {
@@ -311,7 +333,7 @@ export const experiences = [
             link: "",
           },
           {
-            text: "Automated several reports, procedures and tasks using programming languages such as HTML, ReactJS and SQL.",
+            text: "Automated several reports, procedures and tasks for Treasury using programming languages such as HTML, ReactJS and SQL.",
             link: "",
           },
           {
@@ -780,7 +802,7 @@ export const extraCurricular = [
   {
     organisation: "Generative AI",
     title: "Community Manager",
-    duration: "Feb 2024 - on going",
+    duration: "February 2024 - on going",
     content: [
       {
         text: "Run Hong Kong's first ever Generative AI community. Organise workshops, competitions, and events. Run courses, showcases, and lead discussions.",
