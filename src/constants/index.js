@@ -304,22 +304,18 @@ export const experiences = [
     positions: [
       {
         title: "Information Technology Intern",
-        duration: "September 2024 - ongoing (In-Person, Part-Time - Hong Kong SAR)",
+        duration: "September 2024 - May 2025 (In-Person, Part-Time - Hong Kong SAR)",
         content: [
           {
-            text: "Worked for the Treasury and Credit Risk Teams.",
+            text: "Developed and automated the generation of a unified, high-performance database system for Credit Risk and Credit Administration, enabling rapid data generation in 90 seconds and streamlined querying processes.",
             link: "",
           },
           {
-            text: "Automated several reports, procedures and tasks for Treasury using programming languages such as HTML, ReactJS and SQL.",
+            text: "Automated reporting and dashboard creation for Treasury, significantly accelerating report generation for cash flows, foreign exchange, and various financial deals, enhancing operational efficiency by over 50%.",
             link: "",
           },
           {
-            text: "Developing a unified database for Credit Risk pertaining to Obligor and Bank Exposure using programming languages such as Python, Pandas, DB Browser and SQLite3.",
-            link: "",
-          },
-          {
-            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements.",
+            text: "•	Improved operational workflows by streamlining deal recording across multiple teams (namely Financial Institutions, Branches and Transactional Banking Services) and performed extensive testing, maintenance, and feature development for the company Intranet.",
             link: "",
           },
         ],
@@ -884,5 +880,5 @@ export const socialMedia = [
 export const aboutMe = {
   name: "Zain Koreshi",
   tagLine: "BSc (Hons.) in Computer Science • Finance IT Intern • Running Hong Kong's First GenAI Community",
-  intro: "A final year student pursuing a Bachelors in Computer Science at HKBU. My primary skills are in front-end and back-end development. Aside from my technical expertise and work experience, I have listed all of my projects, certifications, licenses and extra-curriculars in this website. I also make YouTube videos! Please check out my channel: https://www.youtube.com/@zainkoreshi",
+  intro: "I am a software engineering professional and recent graduate with a Bachelor's degree in Computer Science. With strong expertise in both front-end and back-end development, I have built a diverse portfolio of projects that demonstrate my technical skills and problem-solving abilities. Beyond development, I actively engage in continuous learning, hold various certifications and licenses, and participate in extracurricular activities that enrich my professional growth.",
 }
