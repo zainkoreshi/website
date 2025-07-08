@@ -315,7 +315,7 @@ export const experiences = [
             link: "",
           },
           {
-            text: "•	Improved operational workflows by streamlining deal recording across multiple teams (namely Financial Institutions, Branches and Transactional Banking Services) and performed extensive testing, maintenance, and feature development for the company Intranet.",
+            text: "Improved operational workflows by streamlining deal recording across multiple teams (namely Financial Institutions, Branches and Transactional Banking Services) and performed extensive testing, maintenance, and feature development for the company Intranet.",
             link: "",
           },
         ],
