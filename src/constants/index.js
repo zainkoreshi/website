@@ -880,5 +880,5 @@ export const socialMedia = [
 export const aboutMe = {
   name: "Zain Koreshi",
   tagLine: "BSc (Hons.) in Computer Science • Finance IT Intern • Running Hong Kong's First GenAI Community",
-  intro: "I am a software engineering professional and recent graduate with a Bachelor's degree in Computer Science. With strong expertise in both front-end and back-end development, I have built a diverse portfolio of projects that demonstrate my technical skills and problem-solving abilities. Beyond development, I actively engage in continuous learning, hold various certifications and licenses, and participate in extracurricular activities that enrich my professional growth.",
+  intro: "A software engineer who recently graduated with a Bachelor's degree in Computer Science. With strong expertise in both front-end and back-end development, I have built a diverse portfolio of projects that demonstrate my technical skills and problem-solving abilities. Beyond development, I actively engage in continuous learning, hold various certifications and licenses, and participate in extracurricular activities that enrich my professional growth.",
 }
