@@ -15,6 +15,7 @@ import {
   hackerrank,
   hsbc,
   hbz,
+  cdc,
   towerdefence,
   nimmt,
   connect,
@@ -297,6 +298,35 @@ export const skills = [
 ];
 
 export const experiences = [
+  {
+    organisation: "Crypto.com",
+    logo: cdc,
+    link: "https://crypto.com/us",
+    positions: [
+      {
+        title: "Software Engineer",
+        duration: "July 2025 - ongoing (In-Person, Full-Time - Hong Kong SAR)",
+        content: [
+          {
+            text: "Backend Engineer for the Main App Tech Team, contributing to the development, enhancement, and maintenance of a high-scale platform serving over 150 million users across 90 countries and regions.",
+            link: "",
+          },
+          {
+            text: "Developed and optimised multiple derivatives trading features, including Knock Out, Strike Out, Stop Loss, and Take Profit options for Prediction Events (Leagues, Matches, and Outcomes).",
+            link: "",
+          },
+          {
+            text: "Improved performance and reliability of user-facing trading APIs as well as internal APIs for operations and admin panels.",
+            link: "",
+          },
+          {
+            text: "Managed debugging, monitoring setup, alert configuration, database migrations, and refactoring for platform stability and scalability.",
+            link: "",
+          },
+        ],
+      },
+    ],
+  },
   {
     organisation: "Habib Bank Zurich, HBZ",
     logo: hbz,
