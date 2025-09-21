@@ -42,10 +42,6 @@ import {
 } from "react-icons/ai";
 
 import {
-  GrGolang,
-} from "react-icons/gr";
-
-import {
   SiJavascript,
   SiBootstrap,
   SiReact,
@@ -75,6 +71,7 @@ import {
   SiKubernetes,
   SiApachekafka,
   SiRedis,
+  SiGo
 } from "react-icons/si";
 
 import {
@@ -144,7 +141,7 @@ export const skills = [
     items: [
       {
         id: "pl-1",
-        icon: GrGolang,
+        icon: SiGo,
         name: "Go",
       },
       {
