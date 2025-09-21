@@ -199,7 +199,7 @@ export const skills = [
       },
             {
         id: "f-3",
-        icon: SiNexdotjs,
+        icon: SiNextdotjs,
         name: "NextJS",
       },
       {
