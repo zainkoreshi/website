@@ -42,6 +42,10 @@ import {
 } from "react-icons/ai";
 
 import {
+  GrGolang,
+} from "react-icons/gr";
+
+import {
   SiJavascript,
   SiBootstrap,
   SiReact,
@@ -66,10 +70,15 @@ import {
   SiZoho,
   SiMicrosoftazure,
   SiConfluence,
+  SiNextdotjs,
+  SiPostgresql,
+  SiKubernetes,
+  SiApachekafka,
+  SiRedis,
 } from "react-icons/si";
 
-import { 
-  DiCss3, 
+import {
+  DiCss3,
   DiJava,
   DiNodejs,
 } from "react-icons/di";
@@ -135,36 +144,41 @@ export const skills = [
     items: [
       {
         id: "pl-1",
+        icon: GrGolang,
+        name: "Go",
+      },
+      {
+        id: "pl-2",
         icon: DiJava,
         name: "Java",
       },
       {
-        id: "pl-2",
+        id: "pl-3",
         icon: SiPython,
         name: "Python",
       },
       {
-        id: "pl-3",
+        id: "pl-4",
         icon: SiC,
         name: "C",
       },
       {
-        id: "pl-4",
+        id: "pl-5",
         icon: AiFillHtml5,
         name: "HTML",
       },
       {
-        id: "pl-5",
+        id: "pl-6",
         icon: SiJavascript,
         name: "JavaScript",
       },
       {
-        id: "pl-6",
+        id: "pl-7",
         icon: SiTypescript,
         name: "TypeScript",
-      },      
+      },
       {
-        id: "pl-7",
+        id: "pl-8",
         icon: DiCss3,
         name: "CSS",
       },
@@ -177,19 +191,24 @@ export const skills = [
         id: "f-1",
         icon: SiReact,
         name: "ReactJS",
-      },      
+      },
       {
         id: "f-2",
         icon: DiNodejs,
         name: "NodeJS",
       },
-      {
+            {
         id: "f-3",
+        icon: SiNexdotjs,
+        name: "NextJS",
+      },
+      {
+        id: "f-4",
         icon: SiTailwindcss,
         name: "Tailwind CSS",
       },
       {
-        id: "f-4",
+        id: "f-5",
         icon: SiBootstrap,
         name: "Bootstrap",
       },
@@ -202,94 +221,114 @@ export const skills = [
         id: "t-1",
         icon: SiMysql,
         name: "MySQL",
-      },      
+      },
       {
         id: "t-2",
-        icon: SiMongodb,
-        name: "MongoDB",
-      },          
+        icon: SiPostgresql,
+        name: "Postgres",
+      },
       {
         id: "t-3",
-        icon: SiMicrosoftazure,
-        name: "CosmosDB",
-      },      
+        icon: SiMongodb,
+        name: "MongoDB",
+      },
       {
         id: "t-4",
-        icon: SiVisualstudiocode,
-        name: "VS Code",
-      },        
+        icon: SiKubernetes,
+        name: "Kubernetes",
+      },
       {
         id: "t-5",
-        icon: SiEclipseide,
-        name: "Eclipse IDE",
-      },          
+        icon: SiApachekafka,
+        name: "Kafka",
+      },
       {
         id: "t-6",
-        icon: SiIntellijidea,
-        name: "IntelliJ IDE",
-      },      
+        icon: SiRedis,
+        name: "Redis",
+      },
       {
         id: "t-7",
+        icon: SiMicrosoftazure,
+        name: "CosmosDB",
+      },
+      {
+        id: "t-8",
+        icon: SiVisualstudiocode,
+        name: "VS Code",
+      },
+      {
+        id: "t-9",
+        icon: SiEclipseide,
+        name: "Eclipse IDE",
+      },
+      {
+        id: "t-10",
+        icon: SiIntellijidea,
+        name: "IntelliJ IDE",
+      },
+      {
+        id: "t-11",
         icon: SiFlutter,
         name: "Flutter",
       },
       {
-        id: "t-8",
+        id: "t-12",
         icon: SiGit,
         name: "Git",
       },
       {
-        id: "t-9",
+        id: "t-13",
         icon: AiFillGithub,
         name: "GitHub",
       },
       {
-        id: "t-10",
+        id: "t-14",
         icon: SiNetlify,
         name: "Netlify",
       },
       {
-        id: "t-11",
+        id: "t-15",
         icon: SiVite,
         name: "ViteJS",
-      },  
-      {
-        id: "t-12",
-        icon: SiPostman,
-        name: "Postman",
-      },    
-      {
-        id: "t-13",
-        icon: SiMicrosoftoffice,
-        name: "Microsoft Office",
-      },      
-      {
-        id: "t-14",
-        icon: AiFillGoogleCircle,
-        name: "Google Workspace",
-      },      
-      {
-        id: "t-15",
-        icon: SiNotion,
-        name: "Notion",
-      },      
+      },
       {
         id: "t-16",
+        icon: SiPostman,
+        name: "Postman",
+      },
+      {
+        id: "t-17",
+        icon: SiMicrosoftoffice,
+        name: "Microsoft Office",
+      },
+      {
+        id: "t-18",
+        icon: AiFillGoogleCircle,
+        name: "Google Workspace",
+      },
+      {
+        id: "t-19",
+        icon: SiNotion,
+        name: "Notion",
+      },
+      {
+        id: "t-20",
         icon: SiClickup,
         name: "Click Up",
       },
       {
-        id: "t-17",
+        id: "t-21",
         icon: SiTrello,
         name: "Trello",
       },
       {
-        id: "t-18",
+        id: "t-22",
         icon: SiZoho,
         name: "Zoho",
       },
       {
-        id: "t-19",
+        id: "t-23",
         icon: SiConfluence,
         name: "Confluence",
       },
@@ -416,15 +455,15 @@ export const experiences = [
         duration: "October 2022 - March 2023 (Hybrid, Full-Time - Hong Kong SAR)",
         content: [
           {
-            text: "Worked on 3 Mobile Applications and 2 Web Applications.",
+            text: "Worked on 3 Mobile Applications and 2 Web Applications, including the Main Application, the Wallet, and the Exchange.",
             link: "",
           },
           {
-            text: "Conducted regular UI/UX Testing.",
+            text: "Conducted regular UI/UX Testing on all platforms and interfaces.",
             link: "",
           },
           {
-            text: "Mapped out User Stories.",
+            text: "Mapped out User Stories for development.",
             link: "",
           },
         ],
