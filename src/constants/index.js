@@ -305,7 +305,7 @@ export const experiences = [
     positions: [
       {
         title: "Software Engineer",
-        duration: "July 2025 - ongoing (In-Person, Full-Time - Hong Kong SAR)",
+        duration: "July 2025 - ongoing (On-Site, Hong Kong SAR)",
         content: [
           {
             text: "Backend Engineer for the Main App Tech Team, contributing to the development, enhancement, and maintenance of a high-scale platform serving over 150 million users across 90 countries and regions.",
@@ -334,7 +334,7 @@ export const experiences = [
     positions: [
       {
         title: "Information Technology Intern",
-        duration: "September 2024 - May 2025 (In-Person, Part-Time - Hong Kong SAR)",
+        duration: "July 2024 - May 2025 (On-Site, Hong Kong SAR)",
         content: [
           {
             text: "Developed and automated the generation of a unified, high-performance database system for Credit Risk and Credit Administration, enabling rapid data generation in 90 seconds and streamlined querying processes.",
@@ -346,24 +346,6 @@ export const experiences = [
           },
           {
             text: "Improved operational workflows by streamlining deal recording across multiple teams (namely Financial Institutions, Branches and Transactional Banking Services) and performed extensive testing, maintenance, and feature development for the company Intranet.",
-            link: "",
-          },
-        ],
-      },
-      {
-        title: "Information Technology Intern",
-        duration: "July 2024 - August 2024 (In-Person, Full-Time - Hong Kong SAR)",
-        content: [
-          {
-            text: "Worked for the Treasury and Information Technology Teams.",
-            link: "",
-          },
-          {
-            text: "Automated several reports, procedures and tasks for Treasury using programming languages such as HTML, ReactJS and SQL.",
-            link: "",
-          },
-          {
-            text: "Carried out extensive testing on the Intranet, and made several fixes and improvements.",
             link: "",
           },
         ],
